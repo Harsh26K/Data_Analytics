@@ -1,0 +1,362 @@
+,Company,Origin,Model,CC,Horsepower,Torque,Transmission,Drivetrain,Seating,Price(Lakhs),Year,Looks,Body,Engine,Cylinders
+0,Aprilia,Italy,RS 660,659.0,100.0,67.0,6-speed Manual,Chain,2,10.99,2021,Sport,Naked,Parallel-twin,2
+1,Aprilia,Italy,Tuono 660,659.0,100.0,67.0,6-speed Manual,Chain,2,11.99,2021,Sport,Naked,Parallel-twin,2
+2,Aprilia,Italy,RS 125,124.9,15.0,12.0,6-speed Manual,Chain,2,4.49,2022,Sport,Racing,Single-cylinder,1
+3,Aprilia,Italy,Shiver 900,896.0,95.0,90.0,6-speed Manual,Shaft,2,13.99,2022,Adventure,Naked,V-twin,2
+4,Aprilia,Italy,Tuono 1100,1077.0,175.0,121.0,6-speed Manual,Shaft,2,19.99,2022,Adventure,Naked,V-twin,2
+5,Benelli,Italy,TNT 125,125.0,11.0,10.8,Manual,Chain,2,1.25,2023,Classy,Sport,Single,1
+6,Benelli,Italy,TNT 250,250.0,27.0,21.2,Manual,Chain,2,1.75,2023,Sporty,Sport,Single,1
+7,Benelli,Italy,TNT 300,300.0,39.0,26.5,Manual,Chain,2,2.0,2023,Classy,Sport,Single,1
+8,Benelli,Italy,TNT 600i,600.0,85.0,54.6,Manual,Chain,2,4.0,2023,Sporty,Sport,Parallel-twin,2
+9,Benelli,Italy,TNT 899,899.0,116.0,86.3,Manual,Chain,2,6.0,2023,Sporty,Sport,Triple,3
+10,Benelli,Italy,TRK 251,250.0,27.0,21.2,Manual,Chain,2,2.25,2023,Adventure,Adventure,Single,1
+11,Benelli,Italy,TRK 502,500.0,47.0,46.0,Manual,Chain,2,3.5,2023,Adventure,Adventure,Parallel-twin,2
+12,Benelli,Italy,Leoncino 500,500.0,47.0,46.0,Manual,Chain,2,3.25,2023,Retro,Cruiser,Parallel-twin,2
+13,BMW,Germany,G 310 GS,313.0,34.0,28.0,6-speed Manual,Chain,2,3.0,2023,Adventure,Adventure,Single,1
+14,BMW,Germany,G 310 R,313.0,34.0,28.0,6-speed Manual,Chain,2,2.5,2023,Sporty,Roadster,Single,1
+15,BMW,Germany,F 850 GS,853.0,95.0,92.0,6-speed Manual,Shaft,2,6.0,2023,Adventure,Adventure,Parallel-twin,2
+16,BMW,Germany,F 850 GS Adventure,853.0,95.0,92.0,6-speed Manual,Shaft,2,8.0,2023,Adventure,Adventure,Parallel-twin,2
+17,BMW,Germany,R 1250 GS,1170.0,136.0,112.0,6-speed Manual,Shaft,2,12.0,2023,Adventure,Adventure,Boxer,2
+18,BMW,Germany,R 1250 RT,1170.0,136.0,112.0,6-speed Manual,Shaft,2,14.0,2023,Touring,Cruiser,Boxer,2
+19,BMW,Germany,S 1000 RR,999.0,199.0,113.0,6-speed Manual,Chain,2,16.0,2023,Sporty,Superbike,Liquid-cooled inline-4,4
+20,BMW,Germany,S 1000 R,999.0,165.0,112.0,6-speed Manual,Chain,2,12.0,2023,Sporty,Roadster,Liquid-cooled inline-4,4
+21,Brixton Motorcycles,Austria,Cromwell 125,125.0,11.7,11.9,Manual,Chain,1,1.5,2022,Classy,Cafe Racer,"Single-cylinder, air-cooled",1
+22,Brixton Motorcycles,Austria,BX 150,149.0,11.7,11.9,Manual,Chain,2,1.25,2022,Classic,Bobber,"Single-cylinder, air-cooled",1
+23,Brixton Motorcycles,Austria,Crossfire 500,500.0,41.0,38.0,Manual,Chain,2,3.5,2022,Adventure,Scrambler,"Single-cylinder, liquid-cooled",1
+24,Brixton Motorcycles,Austria,Crossfire 500 X,500.0,41.0,38.0,Manual,Chain,2,3.75,2022,Adventure,Cafe Racer,"Single-cylinder, liquid-cooled",1
+25,Brixton Motorcycles,Austria,Sunray 500,500.0,41.0,38.0,Manual,Chain,2,4.0,2022,Classic,Cruiser,"Single-cylinder, liquid-cooled",1
+26,Buell Motorcycle Company,United States,Blast,492.0,45.0,37.0,Manual,Chain,1,4.5,<2020,Classy,Naked,"Single-cylinder, liquid-cooled",1
+27,Buell Motorcycle Company,United States,Lightning,984.0,110.0,97.0,Manual,Belt,1,10.0,<2020,Sporty,Sportbike,"V-twin, liquid-cooled",2
+28,Buell Motorcycle Company,United States,Ulysses,1125.0,96.0,98.0,Manual,Belt,2,13.0,<2020,Adventure,Adventure touring,"V-twin, liquid-cooled",2
+29,Buell Motorcycle Company,United States,XB9R Firebolt,984.0,110.0,97.0,Manual,Chain,1,11.0,<2020,Sporty,Naked,"V-twin, liquid-cooled",2
+30,Buell Motorcycle Company,United States,XB12S Lightning,1201.0,105.0,103.0,Manual,Chain,1,12.0,<2020,Sporty,Sportbike,"V-twin, liquid-cooled",2
+31,Cagiva,Italy,Raptor 125,124.9,15.0,12.0,Manual,Chain,1,1.5,<2020,Sporty,Naked,"Single-cylinder, air-cooled",1
+32,Cagiva,Italy,Mito 125,125.0,15.0,12.0,Manual,Chain,1,1.25,<2020,Sporty,Sportbike,"Single-cylinder, air-cooled",1
+33,Cagiva,Italy,Elefant 900,893.0,80.0,66.0,Manual,Chain,2,8.0,<2020,Adventure,Adventure touring,"V-twin, air-cooled",2
+34,Cagiva,Italy,V-Raptor 1000,998.0,100.0,95.0,Manual,Chain,1,10.0,<2020,Sporty,Superbike,"V-twin, liquid-cooled",2
+35,Cagiva,Italy,Gran Canyon 1100,1078.0,95.0,98.0,Manual,Chain,2,11.0,<2020,Adventure,Adventure touring,"V-twin, liquid-cooled",2
+36,CCM,United Kingdom,Spitfire 650,650.0,65.0,54.0,6-speed Manual,Chain,1,12.0,2022,Classy,Naked,"Parallel-twin, liquid-cooled",2
+37,CCM,United Kingdom,GP450R,450.0,60.0,40.0,6-speed Manual,Chain,1,10.0,2022,Sporty,Supermoto,"Single-cylinder, liquid-cooled",1
+38,CCM,United Kingdom,Interceptor 900,900.0,86.0,77.0,6-speed Manual,Chain,2,15.0,2022,Adventure,Adventure touring,"Parallel-twin, liquid-cooled",2
+39,CCM,United Kingdom,Storm 1200,1200.0,115.0,105.0,6-speed Manual,Chain,2,20.0,2022,Adventure,Adventure touring,"Parallel-twin, liquid-cooled",2
+40,CFMOTO,China,300NK,292.4,33.99,21.5,6-speed Manual,Chain,1,2.29,2022,Classy,Naked,Single-cylinder,1
+41,CFMOTO,China,650NK,649.3,61.18,45.0,6-speed Manual,Chain,1,4.29,2022,Classy,Naked,Parallel-twin,2
+42,CFMOTO,China,650MT,649.0,70.7,55.0,6-speed Manual,Chain,2,5.29,2022,Adventure,Adventure,Parallel-twin,2
+43,CFMOTO,China,650GT,649.3,62.54,49.0,6-speed Manual,Shaft,2,5.59,2022,Touring,Sport-touring,Parallel-twin,2
+44,Confederate,United States,Hellcat,1967.0,205.0,183.6,6-speed Manual,Belt,1,45.48,2022,Retro,Cruiser,V-twin,2
+45,Confederate,United States,Wraith,1967.0,190.0,170.0,6-speed Manual,Belt,1,41.43,2022,Modern,Roadster,V-twin,2
+46,Confederate,United States,X132 Hellcat Combat Fighter,2163.0,227.0,194.5,6-speed Manual,Belt,1,82.85,2023,Modern,Fighter,V-twin,2
+47,Daelim,South Korea,VL 125,124.9,10.8,10.2,5-speed Manual,Chain,1,1.3,2022,Classy,Cruiser,Single-cylinder,1
+48,Daelim,South Korea,V125 FI,124.9,11.2,10.2,CVT,Automatic,1,1.4,2022,Classy,Scooter,Single-cylinder,1
+49,Daelim,South Korea,NS 250 FI,249.6,27.6,22.4,6-speed Manual,Chain,1,2.39,2023,Sporty,Naked,Single-cylinder,1
+50,Daelim,South Korea,Roadwin 250,249.6,27.6,22.4,6-speed Manual,Chain,1,2.59,2023,Adventure,Adventure,Single-cylinder,1
+51,Ducati,Italy,Panigale V4,1103.0,221.0,168.6,6-speed Manual,Chain,1,27.41,2022,Classy,Sports,V4,4
+52,Ducati,Italy,Diavel,1262.0,159.6,126.5,6-speed automatic,Belt,1,25.91,2022,Bold,Cruiser,L-Twin,2
+53,Ducati,Italy,Scrambler 800,803.0,73.0,63.9,6-speed Manual,Chain,2,9.39,2022,Retro,Standard,L-Twin,2
+54,Ducati,Italy,Monster,937.0,111.0,93.8,6-speed Manual,Chain,1,12.95,2022,Sleek,Naked,L-Twin,2
+55,Ducati,Italy,Multistrada V4,1158.0,168.0,126.5,6-speed Manual,Shaft,2,21.48,2022,Adventure,Adventure,V4,4
+56,Harley-Davidson,United States,Nightster,975.0,88.5,88.4,6-speed Manual,Belt,1,17.49,2023,Classy,Cruiser,V-twin,1
+57,Harley-Davidson,United States,Sportster S,1252.0,120.7,127.8,6-speed Manual,Belt,1,18.79,2023,Classy,Cruiser,V-twin,1
+58,Harley-Davidson,United States,Road Glide Special,1868.0,92.5,160.5,6-speed automatic,Belt,1,40.49,2023,Classy,Tourer,V-twin,2
+59,Harley-Davidson,United States,Street Glide Special,1868.0,92.5,160.5,6-speed automatic,Belt,1,37.49,2023,Classy,Tourer,V-twin,2
+60,Harley-Davidson,United States,PAN America 1250,1252.0,150.2,127.8,6-speed Manual,Chain,2,24.49,2023,Adventure,Adventure,V-twin,2
+61,Harley-Davidson,United States,Fat Bob,1868.0,92.5,160.5,6-speed Manual,Belt,1,20.49,2023,Classy,Cruiser,V-twin,2
+62,Harley-Davidson,United States,Fat Boy,1868.0,92.5,160.5,6-speed Manual,Belt,1,24.49,2023,Classy,Cruiser,V-twin,2
+63,Harley-Davidson,United States,Heritage Classic,1868.0,94.0,152.3,6-speed Manual,Belt,2,26.59,2023,Classy,Cruiser,V-twin,2
+64,Honda,Japan,CBR250R,249.6,26.5,19.4,Manual,Chain,2,1.45,2023,Classy,Sport,Single-cylinder,2
+65,Honda,Japan,CB350R,348.36,31.0,27.3,Manual,Chain,2,1.85,2023,Classic,Standard,Single-cylinder,1
+66,Honda,India,Hness CB350,348.36,29.6,30.0,Manual,Chain,2,1.65,2022,Classic,Standard,Single-cylinder,1
+67,Honda,India,CB Shine,124.9,10.5,10.3,Manual,Chain,2,0.65,2023,Modern,Standard,Single-cylinder,1
+68,Honda,India,Activa 125,124.9,8.75,10.3,CVT,Automatic,2,0.62,2023,Modern,Scooter,Single-cylinder,1
+69,Husqvarna,Sweden,Vitpilen 401,373.2,43.0,37.0,6-speed Manual,Chain,2,3.25,2023,"Modern, stylish",Naked,Single-cylinder,1
+70,Husqvarna,Sweden,Svartpilen 401,373.2,43.0,37.0,6-speed Manual,Chain,2,3.35,2023,"Modern, rugged",Adventure,Single-cylinder,1
+71,Husqvarna,Sweden,701 Supermoto,693.0,75.0,72.0,6-speed Manual,Chain,1,6.5,2023,"Modern, sporty",Supermoto,Single-cylinder,1
+72,Husqvarna,Sweden,701 Enduro,693.0,75.0,72.0,6-speed Manual,Chain,1,7.5,2023,"Modern, off-road",Enduro,Single-cylinder,1
+73,Indian,United States,Chief Dark Horse,1133.0,108.0,114.0,6-speed Manual,Chain,2,0.23,2023,"Classic, rugged",Cruiser,V-twin,2
+74,Indian,United States,Chief Bobber Dark Horse,1133.0,108.0,114.0,6-speed Manual,Chain,2,0.24,2023,"Classic, bobber",Cruiser,V-twin,2
+75,Indian,United States,Challenger Dark Horse,1799.0,122.0,178.0,6-speed Manual,Belt,2,0.26,2023,"Modern, muscular",Cruiser,V-twin,2
+76,Indian,United States,FTR 1200 S,1203.0,120.0,110.0,6-speed Manual,Chain,1,0.2,2023,"Modern, sporty",Standard,V-twin,1
+77,Indian,United States,Scout Bobber,1133.0,94.0,95.0,6-speed Manual,Chain,2,0.15,2023,"Modern, bobber",Standard,V-twin,1
+78,Kawasaki,Japan,Ninja 300,296.0,39.0,27.0,6-speed Manual,Chain,2,3.43,2023,Classy,Sports,"Liquid-cooled, parallel-twin",2
+79,Kawasaki,Japan,Ninja 400,399.0,45.0,39.0,6-speed Manual,Chain,2,5.19,2023,Classy,Sports,"Liquid-cooled, parallel-twin",2
+80,Kawasaki,Japan,Ninja 650,649.0,67.0,66.0,6-speed Manual,Chain,2,6.65,2023,Classy,Sports,"Liquid-cooled, parallel-twin",2
+81,Kawasaki,Japan,Z900,948.0,125.0,98.6,6-speed Manual,Chain,2,9.11,2023,Aggressive,Naked,"Liquid-cooled, four-cylinder",4
+82,Kawasaki,Japan,Z H2,998.0,197.0,140.0,6-speed Manual,Shaft,2,23.02,2023,Aggressive,Naked,"Supercharged, four-cylinder",4
+83,Kawasaki,Japan,Vulcan S,649.0,60.0,62.0,6-speed Manual,Belt,2,6.95,2023,Classic,Cruiser,"Liquid-cooled, parallel-twin",2
+84,KTM,Austria,125 Duke,125.0,15.0,12.0,6-speed Manual,Chain,1,1.78,2023,Classy,Naked,Single-cylinder,1
+85,KTM,Austria,200 Duke,200.0,25.0,19.0,6-speed Manual,Chain,1,1.92,2023,Classy,Naked,Single-cylinder,1
+86,KTM,Austria,250 Duke,250.0,30.0,24.0,6-speed Manual,Chain,1,2.2,2023,Classy,Naked,Single-cylinder,1
+87,KTM,Austria,390 Duke,390.0,43.0,37.0,6-speed Manual,Chain,1,3.1,2023,Classy,Naked,Single-cylinder,1
+88,KTM,Austria,RC 200,200.0,25.0,19.0,6-speed Manual,Chain,1,2.05,2023,Race-inspired,Sport,Single-cylinder,1
+89,KTM,Austria,RC 390,390.0,43.0,37.0,6-speed Manual,Chain,1,3.3,2023,Race-inspired,Sport,Single-cylinder,1
+90,KTM,Austria,390 Adventure,373.0,43.0,37.0,6-speed Manual,Chain,2,3.6,2023,Adventure,Adventure,Single-cylinder,1
+91,KTM,Austria,790 Adventure,799.0,95.0,88.0,6-speed Manual,Chain,2,5.5,2023,Adventure,Adventure,Parallel-twin,2
+92,Kymco,Taiwan,Agility 125,125.0,10.0,9.5,CVT,Automatic,1,0.75,2023,Classy,Scooter,Single-cylinder,1
+93,Kymco,Taiwan,Downtown 300i,300.0,29.0,27.0,CVT,Automatic,2,1.5,2023,Classy,Scooter,Single-cylinder,1
+94,Kymco,Taiwan,K-XCT 300,300.0,29.0,27.0,CVT,Automatic,2,1.6,2023,Adventure,Adventure,Single-cylinder,1
+95,Kymco,Taiwan,AK 550,550.0,47.0,55.0,6-speed Manual,Chain,2,2.5,2023,Sport,Sport,Parallel-twin,2
+96,Leonart,Italy,Daytona 125,125.0,12.5,10.2,Manual,Chain,1,1.05,2023,Modern,Naked,"Air Cooled, Single Cylinder, 4-Stroke",1
+97,Leonart,Italy,Gran Turismo 300,300.0,25.8,23.5,Manual,Chain,1,1.5,2023,Modern,Sport,"Liquid Cooled, Single Cylinder, 4-Stroke",1
+98,Leonart,Italy,Cafe Racer 500,500.0,38.0,38.0,Manual,Chain,1,2.0,2023,Retro,Cafe Racer,"Air Cooled, Single Cylinder, 4-Stroke",1
+99,Leonart,Italy,Scrambler 650,650.0,47.0,50.0,Manual,Chain,1,2.5,2023,Adventure,Scrambler,"Liquid Cooled, Single Cylinder, 4-Stroke",1
+100,Lambretta,India,V125,124.7,10.19,9.2,Automatic,Belt,1,0.85,2023,Classy,Scooter,"Air Cooled, Single Cylinder, 4-Stroke",1
+101,Lambretta,India,V200,200.0,12.9,16.0,Automatic,Belt,1,1.15,2023,Classy,Scooter,"Air Cooled, Single Cylinder, 4-Stroke",1
+102,Lifan,China,LF125S,125.0,9.4,9.5,CVT,Automatic,1,0.55,2023,Modern,Scooter,"Air Cooled, Single Cylinder, 4-Stroke",1
+103,Lifan,China,LF200GY,200.0,12.0,14.0,CVT,Automatic,1,0.75,2023,Modern,Scooter,"Air Cooled, Single Cylinder, 4-Stroke",1
+104,Lifan,China,LF250K,250.0,18.5,18.0,6-speed Manual,Chain,1,1.1,2023,Modern,Adventure,"Air Cooled, Single Cylinder, 4-Stroke",1
+105,Lifan,China,LF250GY-3,250.0,22.5,21.0,6-speed Manual,Chain,1,1.1,2023,Modern,Sport,"Air Cooled, Single Cylinder, 4-Stroke",1
+106,Mahindra,India,Mojo 300,295.0,348.5,28.0,6-speed Manual,Chain,2,2.08,<2020,Adventure,Naked,"Single-cylinder, liquid-cooled, DOHC",1
+107,Mahindra,India,Xpulse 200,199.6,238.0,17.3,5-speed Manual,Chain,2,1.29,<2020,Adventure,Standard,"Single-cylinder, air-cooled, OHC",1
+108,Mahindra,India,Gusto 125,124.9,140.7,10.5,4-speed Manual,Chain,2,0.7,<2020,Commuter,Standard,"Single-cylinder, air-cooled, OHC",1
+109,Mahindra,India,Duro DZire,110.0,111.8,8.5,4-speed Manual,Chain,2,0.55,<2020,Commuter,Standard,"Single-cylinder, air-cooled, OHC",1
+110,Mahindra,India,Centuro 100,106.7,8.5,8.5,4-speed Manual,Chain,2,0.54,<2020,Commuter,Standard,"Single-cylinder, air-cooled, OHC",1
+111,Moto Guzzi,Italy,V85 TT,853.0,80.0,100.4,6-speed Manual,Shaft,2,15.4,2022,Adventure,Standard,V-twin,2
+112,Moto Guzzi,Italy,V9 Bobber,900.0,65.0,80.8,6-speed Manual,Shaft,2,13.6,<2020,Bobber,Cruiser,V-twin,2
+113,Moto Guzzi,Italy,V9 Roamer,900.0,65.0,80.8,6-speed Manual,Shaft,2,13.3,<2020,Cruiser,Cruiser,V-twin,2
+114,Moto Guzzi,Italy,Audace,900.0,75.0,97.9,6-speed Manual,Shaft,2,14.8,<2020,Cruiser,Cruiser,V-twin,2
+115,Moto Guzzi,Italy,Eldorado,1400.0,96.0,117.0,6-speed Manual,Shaft,2,17.5,<2020,Classic,Cruiser,V-twin,2
+116,Moto Guzzi,Italy,MGX-21,1700.0,115.0,121.0,6-speed automatic,Shaft,2,24.9,2021,Cruiser,Cruiser,V-twin,2
+117,MV Agusta,Italy,F3 800 RR,798.0,147.0,88.0,6-speed Manual,Chain,2,18.9,2023,Classy,Supersport,3-cylinder,3
+118,MV Agusta,Italy,Brutale 1000 RR,998.0,208.0,116.0,6-speed Manual,Chain,2,25.4,2023,Aggressive,Naked,3-cylinder,3
+119,MV Agusta,Italy,Turismo Veloce Lusso,800.0,110.0,86.0,6-speed Manual,Shaft,2,22.8,2023,Classic,Sport touring,3-cylinder,3
+120,MV Agusta,Italy,Dragster RR,800.0,140.0,86.0,6-speed Manual,Chain,2,21.1,2023,Futuristic,Naked,3-cylinder,3
+121,MV Agusta,Italy,Superveloce 800,798.0,140.0,86.0,6-speed Manual,Chain,2,20.7,2023,Retro,Cafe racer,3-cylinder,3
+122,Norton,United Kingdom,Commando 961 Café Racer,961.0,80.0,67.0,6-speed Manual,Chain,2,20.99,2023,Classy,Café racer,"Air-cooled, parallel-twin",2
+123,Norton,United Kingdom,Commando 961 Sport,961.0,80.0,67.0,6-speed Manual,Chain,2,20.99,2023,Classy,Sports bike,"Air-cooled, parallel-twin",2
+124,Norton,United Kingdom,Atlas,1200.0,105.0,90.0,6-speed Manual,Shaft,2,32.99,2022,Adventure,Adventure bike,"Liquid-cooled, parallel-twin",2
+125,Norton,United Kingdom,V4SV,1200.0,177.0,125.0,6-speed Manual,Chain,2,35.99,2023,Sporty,Superbike,"Liquid-cooled, V4",4
+126,Piaggio,Italy,Aprilia SR160,160.0,11.3,11.5,CVT,Automatic,2,1.25,2023,Sporty,Scooter,"Air-cooled, single-cylinder",1
+127,Piaggio,Italy,Aprilia RS150,150.0,17.7,14.2,6-speed Manual,Chain,2,1.55,2023,Sporty,Sports bike,"Liquid-cooled, single-cylinder",1
+128,Piaggio,Italy,Aprilia Tuono 660,660.0,95.0,67.0,6-speed Manual,Chain,2,3.15,2022,Sporty,Naked bike,"Liquid-cooled, parallel-twin",2
+129,Piaggio,Italy,Vespa VX125,125.0,9.5,9.8,CVT,Automatic,2,1.15,2023,Classic,Scooter,"Air-cooled, single-cylinder",1
+130,Piaggio,Italy,Vespa GTS300,300.0,23.8,26.0,CVT,Automatic,2,2.15,2023,Classic,Scooter,"Liquid-cooled, single-cylinder",1
+131,Royal Enfield,India,Bullet 350,346.0,19.8,28.0,5-speed Manual,Chain,2,1.47,2023,Classic,Cruiser,"Air-cooled, single-cylinder",1
+132,Royal Enfield,India,Bullet 500,499.0,27.2,41.0,5-speed Manual,Chain,2,1.97,2023,Classic,Cruiser,"Air-cooled, single-cylinder",1
+133,Royal Enfield,India,Meteor 350,349.0,265.6,27.0,5-speed Manual,Chain,2,1.65,2022,Classic,Cruiser,"Air-cooled, single-cylinder",1
+134,Royal Enfield,India,Himalayan,411.0,322.2,32.0,5-speed Manual,Chain,2,2.2,2022,Adventure,Adventure bike,"Air-cooled, single-cylinder",1
+135,Royal Enfield,India,Interceptor 650,648.0,625.9,52.0,6-speed Manual,Shaft,2,2.79,2022,Classic,Cafe racer,"Air-cooled, parallel-twin",2
+136,Royal Enfield,India,Continental GT 650,648.0,625.9,52.0,6-speed Manual,Shaft,2,2.99,2022,Sporty,Cafe racer,"Air-cooled, parallel-twin",2
+137,Royal Enfield,India,Super Meteor 650,648.0,47.0,52.3,6-speed Manual,Chain,2,3.65,2022,Classy,Cruiser,Parallel twin,2
+138,Suzuki,Japan,Gixxer SF 250,249.0,26.5,22.6,6-speed Manual,Chain,2,1.79,2022,Sporty,Naked bike,Single-cylinder,1
+139,Suzuki,Japan,Gixxer 250,249.0,26.5,22.6,6-speed Manual,Chain,2,1.49,2022,Sporty,Street bike,Single-cylinder,1
+140,Suzuki,Japan,Intruder 150,155.0,14.8,14.0,5-speed Manual,Chain,2,1.2,2022,Classic,Cruiser,Single-cylinder,1
+141,Suzuki,Japan,Access 125,124.0,8.7,10.2,CVT,Automatic,2,0.68,2022,Practical,Scooter,Single-cylinder,1
+142,Suzuki,Japan,Burgman Street 125,124.0,8.7,10.2,CVT,Automatic,2,0.78,2022,Practical,Scooter,Single-cylinder,1
+143,SYM,Taiwan,Joymax Z 300,300.0,32.0,26.0,Automatic,CVT,2,3.25,2023,Adventure,Maxi-Scooter,"Liquid-cooled, 4-stroke, single-cylinder",1
+144,SYM,Taiwan,Maxsym 400i,400.0,33.0,34.0,Automatic,CVT,2,4.5,2022,Sporty,Maxi-Scooter,"Liquid-cooled, 4-stroke, single-cylinder",1
+145,SYM,Taiwan,Joyride 125,125.0,10.0,10.0,Automatic,CVT,2,1.1,2022,Classy,Scooter,"Air-cooled, 4-stroke, single-cylinder",1
+146,SYM,Taiwan,Fiddle III 125,125.0,9.0,9.0,Automatic,CVT,2,0.95,2021,Classy,Scooter,"Air-cooled, 4-stroke, single-cylinder",1
+147,SYM,Taiwan,HD 200,200.0,17.0,16.0,Manual,Chain,2,1.5,2020,Classic,Naked Bike,"Air-cooled, 4-stroke, single-cylinder",1
+148,Triumph,United Kingdom,Rocket 3 R,2500.0,167.0,221.7,6-speed Manual,Shaft,2,20.19,2023,"Classy, cruiser",Cruiser,3-cylinder,3
+149,Triumph,United Kingdom,Speed Triple 1200 RR,1160.0,177.0,129.2,6-speed Manual,Chain,1,17.95,2023,"Sporty, aggressive",Naked,3-cylinder,3
+150,Triumph,United Kingdom,Trident 660,660.0,89.0,80.2,6-speed Manual,Chain,2,7.45,2022,"Modern, sporty",Naked,3-cylinder,2
+151,Triumph,United Kingdom,Tiger 900 GT Pro,888.0,105.0,87.0,6-speed Manual,Shaft,2,14.99,2023,"Adventure, touring",Adventure,3-cylinder,1
+152,Triumph,United Kingdom,Tiger 850 Sport,888.0,85.0,84.3,6-speed Manual,Shaft,2,11.95,2022,"Adventure, sporty",Adventure,3-cylinder,1
+153,Triumph,United Kingdom,Speed Twin 900,900.0,97.0,115.6,6-speed Manual,Chain,2,8.49,2022,"Classic, stylish",Naked,2-cylinder,2
+154,Triumph,United Kingdom,Bonneville T100,900.0,65.0,80.2,5-speed Manual,Chain,2,9.69,2022,"Classic, vintage",Cruiser,2-cylinder,2
+155,Triumph,United Kingdom,Bonneville T120,1200.0,79.0,118.3,5-speed Manual,Chain,2,11.09,2022,"Classic, vintage",Cruiser,2-cylinder,2
+156,Vespa,Italy,Primavera,150.0,12.1,16.6,CVT,Automatic,2,1.32,2022,"Classic, stylish",Scooter,1-cylinder,1
+157,Vespa,Italy,Sprint,125.0,10.0,12.0,CVT,Automatic,2,1.15,2022,"Modern, sporty",Scooter,1-cylinder,1
+158,Vespa,Italy,GTS 300,300.0,23.8,26.4,CVT,Automatic,2,1.75,2022,"Sporty, aggressive",Scooter,1-cylinder,1
+159,Vespa,Italy,946,125.0,10.7,12.5,CVT,Automatic,2,1.65,2022,"Classic, vintage",Scooter,1-cylinder,1
+160,Vespa,Italy,Elettrica,70.0,5.4,76.2,CVT,Electric,2,1.1,2022,"Modern, stylish",Scooter,Electric,0
+161,Yamaha,Japan,R1,998.0,200.0,152.3,6-speed Manual,Chain,1,20.0,2023,"Sporty, aggressive",Sportbike,4-cylinder,4
+162,Yamaha,Japan,MT-09,889.0,117.0,93.8,6-speed Manual,Chain,1,8.5,2022,"Modern, sporty",Naked,3-cylinder,3
+163,Yamaha,Japan,R3,321.0,42.0,39.4,6-speed Manual,Chain,1,5.5,2022,"Sporty, beginner-friendly",Sportbike,4-cylinder,4
+164,Yamaha,Japan,FZ-25,249.0,26.0,25.3,5-speed Manual,Chain,1,3.5,2022,"Modern, stylish",Naked,1-cylinder,1
+165,Yamaha,Japan,XSR155,155.0,18.0,20.0,5-speed Manual,Chain,1,2.0,2022,"Classic, vintage",Retro,1-cylinder,1
+166,Beta,Italy,RR 350 2-Stroke,350.0,40.0,34.0,6-speed Manual,Chain,1,12.5,2023,Classy,Enduro,Two-stroke,1
+167,Beta,Italy,RR 250 2-Stroke,250.0,35.0,27.0,6-speed Manual,Chain,1,11.0,2023,Classy,Enduro,Two-stroke,1
+168,Beta,Italy,RR 125 2-Stroke,125.0,27.0,22.0,6-speed Manual,Chain,1,8.0,2023,Classy,Enduro,Two-stroke,1
+169,Beta,Italy,RR 390 4-Stroke,390.0,45.0,37.0,6-speed Manual,Chain,1,14.0,2023,Classy,Enduro,Four-stroke,1
+170,Beta,Italy,RR 250 4-Stroke,250.0,38.0,28.0,6-speed Manual,Chain,1,12.0,2023,Classy,Enduro,Four-stroke,1
+171,Beta,Italy,RR 125 4-Stroke,125.0,24.0,20.0,6-speed Manual,Chain,1,8.5,2023,Classy,Enduro,Four-stroke,1
+172,Beta,Italy,Alp 200,200.0,25.0,22.0,5-speed Manual,Shaft,2,10.5,2023,Adventure,Dual-sport,Four-stroke,1
+173,Beta,Italy,Alp 125,125.0,20.0,18.0,5-speed Manual,Shaft,2,8.0,2023,Adventure,Dual-sport,Four-stroke,1
+174,GasGas,Spain,MC 250F,250.0,37.0,26.0,6-speed Manual,Chain,1,11.0,2023,Modern,Enduro,Four-stroke,1
+175,GasGas,Spain,MC 350F,350.0,44.0,32.0,6-speed Manual,Chain,1,13.0,2023,Modern,Enduro,Four-stroke,1
+176,GasGas,Spain,MC 450F,450.0,52.0,42.0,6-speed Manual,Chain,1,14.5,2023,Modern,Enduro,Four-stroke,1
+177,GasGas,Spain,EC 250,250.0,35.0,25.0,6-speed Manual,Chain,1,10.5,2023,Modern,Motocross,Two-stroke,1
+178,GasGas,Spain,EC 300,300.0,40.0,30.0,6-speed Manual,Chain,1,12.0,2023,Modern,Motocross,Two-stroke,1
+179,GasGas,Spain,EC 250F,250.0,37.0,26.0,6-speed Manual,Chain,1,11.5,2023,Modern,Enduro,Two-stroke,1
+180,GasGas,Spain,EC 300F,300.0,44.0,32.0,6-speed Manual,Chain,1,13.0,2023,Modern,Enduro,Two-stroke,1
+181,GasGas,Spain,SM 700,693.0,74.0,70.0,6-speed Manual,Chain,1,14.5,2023,Modern,Supermoto,Single,1
+182,Harley-Davidson,United States,LiveWire,1133.0,105.0,116.0,Single Speed,Other,1,35.0,2021,Modern,Cruiser,Electric,1
+183,Honda,Japan,CT125,124.9,10.2,10.4,CVT,Shaft,1,1.35,2022,Adventure,Trail,Single,1
+184,Honda,Japan,Super Cub,110.0,8.5,9.5,CVT,Chain,1,0.65,2023,Classic,Standard,Single,1
+185,Husqvarna,Sweden,Vitpilen 250,248.76,30.84,24.0,6-speed Manual,Chain,1,2.19,2023,Classy,Naked,Single-cylinder,1
+186,Husqvarna,Sweden,Svartpilen 250,248.76,30.84,24.0,6-speed Manual,Chain,1,2.19,2023,Adventure,Naked,Single-cylinder,1
+187,Husqvarna,Sweden,Vitpilen 401,373.2,43.5,37.0,6-speed Manual,Chain,1,2.8,2023,Classy,Naked,Single-cylinder,1
+188,Husqvarna,Sweden,Svartpilen 401,373.2,43.5,37.0,6-speed Manual,Chain,1,2.9,2023,Adventure,Naked,Single-cylinder,1
+189,Husqvarna,Sweden,FE 350,350.0,39.3,35.0,6-speed Manual,Chain,1,4.2,2023,Motocross,Enduro,Single-cylinder,1
+190,Husqvarna,Sweden,TE 300i,300.0,44.2,30.0,6-speed Manual,Chain,1,4.0,2023,Enduro,Enduro,Single-cylinder,2
+191,Husqvarna,Sweden,FE 501,501.0,51.5,48.0,6-speed Manual,Chain,1,5.5,2023,Motocross,Enduro,Single-cylinder,1
+192,Husqvarna,Sweden,TE 501i,501.0,51.5,48.0,6-speed Manual,Chain,1,5.3,2023,Enduro,Enduro,Single-cylinder,1
+193,KTM,Austria,1290 Super Duke R,1301.0,177.0,140.0,6-speed Manual,Chain,1,17.0,2023,Aggressive,Naked,V-twin,2
+194,Moto Morini,Italy,Seiemmezzo 6 ½,649.0,55.7,54.0,6-speed Manual,Chain,2,6.99,2023,Classy,Naked,Parallel-twin,2
+195,Moto Morini,Italy,X-Cape,649.0,60.8,54.0,6-speed Manual,Shaft,2,7.35,2023,Adventure,Adventure,Parallel-twin,2
+196,Suzuki,Japan,Hayabusa,1340.0,190.0,150.0,6-speed Manual,Chain,2,16.9,2023,Classy,Sport,In-line-four,4
+197,Triumph,United Kingdom,Rocket 3,2458.0,167.0,221.0,6-speed Manual,Shaft,2,21.4,2023,Classy,Cruiser,In-line-three,3
+198,Yamaha,Japan,MT-10,998.0,2077.7,111.0,6-speed Manual,Chain,1,14.0,2023,"Classy, aggressive",Naked streetfighter,"Liquid-cooled, 4-cylinder, DOHC",4
+199,Bajaj,India,Pulsar 125,124.9,167.0,11.0,4-speed Manual,Chain,1,0.68,2023,"Modern, sporty",Street,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+200,Bajaj,India,Pulsar 150,149.5,190.7,13.0,5-speed Manual,Chain,1,0.85,2023,"Modern, sporty",Street,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+201,Bajaj,India,Pulsar NS200,199.5,322.2,18.6,6-speed Manual,Chain,1,1.25,2023,Sporty,Naked streetfighter,"Liquid-cooled, 4-stroke, single-cylinder, DTS-i",1
+202,Bajaj,India,Dominar 400,373.3,518.1,35.0,6-speed Manual,Chain,1,1.99,2023,"Bold, aggressive",Street naked,"Liquid-cooled, 4-stroke, single-cylinder, DTS-i",1
+203,Bajaj,India,Avenger 220,220.9,250.5,17.35,5-speed Manual,Chain,2,1.13,2023,"Classic, stylish",Cruiser,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+204,Bajaj,India,Platina 110,110.0,113.1,9.8,4-speed Manual,Chain,1,0.62,2023,"Simple, reliable",commuter,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+205,Hero,India,Splendor Plus,100.0,118.4,8.9,4-speed Manual,Chain,1,0.58,2023,"Simple, reliable",commuter,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+206,Hero,India,Passion Pro,110.0,119.7,9.7,4-speed Manual,Chain,1,0.64,2023,"Modern, sporty",commuter,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+207,Hero,India,XPulse 200,199.6,242.0,17.1,5-speed Manual,Chain,1,1.15,2023,Adventure,Enduro,"Air-cooled, 4-stroke, single-cylinder, BS6",1
+208,Hero,India,XPulse 200T,199.6,242.0,17.1,5-speed Manual,Chain,1,1.22,2023,Adventure,Street,"Air-cooled, 4-stroke, single-cylinder, BS6",1
+209,Hero,India,Glamour 125,124.7,140.7,10.6,4-speed Manual,Chain,1,0.7,2023,"Modern, stylish",commuter,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+210,Hero,India,HF Deluxe,100.0,109.1,8.05,4-speed Manual,Chain,1,0.5,2023,"Simple, reliable",commuter,"Air-cooled, 4-stroke, single-cylinder, DTS-i",1
+211,Jawa,India,Jawa,293.0,27.33,27.02,Manual,Chain,2,1.67,<2020,Classy,Cruiser,"Single-cylinder, liquid-cooled",1
+212,Jawa,India,Forty Two,293.0,27.33,27.02,Manual,Chain,2,1.67,<2020,Classy,Roadster,"Single-cylinder, liquid-cooled",1
+213,Jawa,India,Perak,334.0,30.64,32.74,Manual,Chain,2,2.15,2020,Modern,Bobber,"Single-cylinder, liquid-cooled",1
+214,TVS,India,Apache RTR 200 4V,199.5,19.7,16.8,5-speed Manual,Chain,2,1.28,<2020,Sporty,Naked,"Single-cylinder, air-cooled",1
+215,TVS,India,Apache RTR 200 4V FI,199.5,20.2,18.1,5-speed Manual,Chain,2,1.34,2020,Sporty,Naked,"Single-cylinder, fuel-injected, air-cooled",1
+216,TVS,India,Apache RTR 160 2V,159.7,15.3,13.7,5-speed Manual,Chain,2,1.0,2020,Sporty,Naked,"Single-cylinder, air-cooled",1
+217,TVS,India,Ntorq 125,124.8,9.4,10.5,CVT,Automatic,2,0.7,<2020,Fun,Scooter,"Single-cylinder, air-cooled",1
+218,TVS,India,Jupiter,110.0,8.3,9.4,CVT,Automatic,2,0.62,2022,Practical,Scooter,"Single-cylinder, air-cooled",1
+219,TVS,India,Sport 125,124.8,9.7,10.5,4-speed Manual,Chain,2,0.79,2022,Classic,Standard,"Single-cylinder, air-cooled",1
+220,TVS,India,Radeon,124.8,8.7,10.0,4-speed Manual,Chain,2,0.73,2022,Budget,Standard,"Single-cylinder, air-cooled",1
+221,Triton Electric Bikes,China,Artemis,750.0,500.0,80.0,Mid-drive Motor,Other,1,2.5,2023,Modern,Mountain bike,Electric,1
+222,Apollo,China,Artemis,250.0,250.0,80.0,Mid-drive Motor,Other,1,1.5,2022,Modern,Hybrid bike,Electric,1
+223,Hero Electric,India,Artemis,250.0,250.0,80.0,Hub Motor,Other,1,1.0,2021,Classic,Electric scooter,Electric,1
+224,Ampere,India,Artemis,250.0,250.0,80.0,Hub Motor,Other,1,0.8,2020,Classic,Electric scooter,Electric,1
+225,Peugeot,France,Django 125,125.0,10.2,10.8,Manual,Chain,2,1.15,2023,Classic,Cruiser,Single-cylinder,1
+226,Peugeot,France,Django 300,300.0,27.0,29.0,Manual,Chain,2,1.45,2023,Modern,Cruiser,Single-cylinder,1
+227,Peugeot,France,Metropolis 400,399.0,36.0,38.0,Automatic,CVT,3,2.4,2023,Futuristic,Scooter,Single-cylinder,1
+228,Ontrack,India,Brutus Single Speed MTB 29,29.0,25.0,25.0,Single Speed,Other,1,0.14,2023,Rugged,Mountain Bike,2,1
+229,Derbi,Spain,STX 150,150.0,12.5,12.0,5-speed Manual,Chain,1,1.0,2023,Sporty,Street Bike,4-stroke,1
+230,Vmoto Soco,China,TC,125.0,6.7,110.0,Automatic,Electric,2,1.4,2023,Retro-modern,Naked,Electric,1
+231,Vmoto Soco,China,TC Max,125.0,6.7,110.0,Automatic,Electric,2,1.6,2023,Modern,Cafe racer,Electric,1
+232,Vmoto Soco,China,TS Street Hunter,125.0,6.7,110.0,Automatic,Electric,2,1.5,2023,Modern,Streetfighter,Electric,1
+233,Vmoto Soco,China,TC Wanderer,125.0,6.7,110.0,Automatic,Electric,2,1.3,2023,Retro-modern,Scrambler,Electric,1
+234,Italjet,Italy,Dragster 200,200.0,20.07,17.0,Automatic,Other,2,8.29,2020,Futuristic,Naked,Liquid-cooled,1
+235,Sherco,France,SE 125 Factory 2T,125.0,15.0,12.0,Manual,Chain,1,10.0,2023,Sharp,Enduro,2-stroke,1
+236,Sherco,France,SE 250 Factory 2T,250.0,30.0,22.0,Manual,Chain,1,11.7,2023,Sharp,Enduro,2-stroke,1
+237,Sherco,France,SE 300 Factory 2T,300.0,36.0,26.0,Manual,Chain,1,14.0,2023,Sharp,Enduro,2-stroke,1
+238,Sherco,France,SEF 250i-S,250.0,31.0,24.0,Automatic,Chain,1,11.5,2023,Modern,Enduro,4-stroke,1
+239,Sherco,France,SEF 300i-S,300.0,35.0,27.0,Automatic,Chain,1,13.8,2023,Modern,Enduro,4-stroke,1
+240,Victory,United States,Cross Country,106.0,94.0,149.6,6-speed Manual,Belt,2,15.0,<2020,Modern,Cruiser,V-twin,2
+241,Victory,United States,Judge,106.0,94.0,149.6,6-speed Manual,Belt,2,14.5,<2020,Modern,Cruiser,V-twin,2
+242,Victory,United States,Hammer,1179.0,104.0,136.0,6-speed Manual,Belt,2,17.0,<2020,Modern,Cruiser,V-twin,2
+243,Victory,United States,Octane,1179.0,104.0,103.4,6-speed Manual,Belt,2,12.5,<2020,Modern,Cruiser,V-twin,2
+244,Victory,United States,Vision,1731.0,116.0,163.2,6-speed Manual,Belt,2,22.0,<2020,Modern,Touring,V-twin,3
+245,Hanway,China,Furious 125,125.0,11.0,10.0,5-speed Manual,Chain,2,1.0,2023,Modern,Street,Single,1
+246,Hanway,China,Black Cafe 125,125.0,11.0,10.0,5-speed Manual,Chain,2,1.05,2023,Retro,Cafe racer,Single,1
+247,Hanway,China,Muscle 125,125.0,11.0,10.0,5-speed Manual,Chain,2,1.1,2023,Modern,Cruiser,Single,1
+248,Hanway,China,Scrambler 125,125.0,11.0,10.0,5-speed Manual,Chain,2,1.15,2023,Retro,Scrambler,Single,1
+249,Hanway,China,Raw 125,125.0,11.0,10.0,5-speed Manual,Chain,2,1.2,2023,Modern,Naked,Single,1
+250,Keeway,Italy,V302C,298.0,29.9,26.5,6-speed Manual,Chain,1,3.89,2023,Cruiser,Retro,"Air-Cooled, Single-Cylinder",1
+251,Keeway,Italy,Vieste 300,278.2,242.0,16.0,CVT,CVT,1,3.25,2023,Modern,Sport,"Liquid-Cooled, Single-Cylinder",1
+252,Keeway,Italy,K-Light 250V,249.0,242.0,17.0,6-speed Manual,Chain,1,3.2,2023,Modern,Sports Naked,"Air-Cooled, Single-Cylinder",1
+253,Keeway,Italy,K300 R,292.4,356.4,22.0,6-speed Manual,Chain,1,2.65,2023,Modern,Sports,"Liquid-Cooled, Single-Cylinder",1
+254,Keeway,Italy,Sixties 300i,278.2,242.0,16.0,CVT,CVT,1,3.3,2023,Retro,Cafe Racer,"Liquid-Cooled, Single-Cylinder",1
+255,Keeway,Italy,SR125,125.0,125.7,10.5,CVT,CVT,1,1.2,2023,Modern,Commuter,"Air-Cooled, Single-Cylinder",1
+256,Jawa,India,Jawa 42,293.0,27.33,27.02,6-speed Manual,Chain,2,1.67,2020,Retro,Cruiser,"Single-cylinder, liquid-cooled",1
+257,Jawa,India,Jawa 42 Bobber,293.0,27.33,27.02,6-speed Manual,Chain,2,1.84,2020,Retro,Bobber,"Single-cylinder, liquid-cooled",1
+258,Jawa,India,Jawa Perak,334.0,30.64,32.74,6-speed Manual,Chain,2,2.15,2021,Modern,Cruiser,"Single-cylinder, liquid-cooled",1
+259,Lexmoto,United Kingdom,LXR 125,125.0,178.8,11.0,6-speed Manual,Chain,2,1.65,2022,Modern,Sports,"Single-cylinder, liquid-cooled",1
+260,Lexmoto,United Kingdom,ZSX 125,125.0,184.1,11.5,6-speed Manual,Chain,2,1.75,2022,Modern,Naked,"Single-cylinder, liquid-cooled",1
+261,Lexmoto,United Kingdom,Milano 125,125.0,124.9,9.0,CVT,Belt,2,1.35,2022,Retro,Scooter,"Single-cylinder, air-cooled",1
+262,Lexmoto,United Kingdom,Vendetta 250,250.0,276.2,18.6,6-speed Manual,Chain,2,2.25,2022,Modern,Cruiser,"Single-cylinder, liquid-cooled",1
+263,Mash,China,Black Seven 125,125.0,14.7,11.0,Manual,Chain,2,1.1,2023,Retro,Street,Single-cylinder,1
+264,Mash,China,Two Fifty,250.0,20.0,18.0,Manual,Chain,2,1.5,2023,Retro,Scrambler,Single-cylinder,1
+265,Mash,China,Dirt Track 125,125.0,14.7,11.0,Manual,Chain,2,1.0,2023,Retro,Dirt bike,Single-cylinder,1
+266,Mash,China,Five Hundred,500.0,35.0,38.0,Manual,Chain,2,2.5,2023,Retro,Cafe racer,Single-cylinder,1
+267,Segway,China,Dirt eBike X260,500.0,6.7,250.6,Automatic,Electric,1,3.5,2023,Modern,Dirt bike,Electric,1
+268,Arcfox,China,Alpha S,1903.0,90.7,261.5,Automatic,Other,2,1.4,2023,Futuristic,Sportbike,Electric,2
+269,Hyosung,South Korea,Aquila GV650,647.0,68.0,73.4,6-speed Manual,Other,2,6.5,2023,"Modern, aggressive",Cruiser,V-twin,2
+270,Fantic,Italy,Caballero 125,125.0,15.0,11.0,6-speed Manual,Chain,1,1.5,2023,"Modern, aggressive",Enduro,Single-cylinder,1
+271,FB Mondial,Italy,HPS 300,249.0,23.11,22.5,6-speed Manual,Chain,1,3.37,<2020,"Retro, classic",Scrambler,"Single cylinder, liquid-cooled, 4-stroke, 4-valves, SOHC",1
+272,FB Mondial,Italy,300 SuperSport,300.0,30.4,24.0,6-speed Manual,Chain,1,4.2,2020,"Modern, sporty",Cafe racer,"Single cylinder, liquid-cooled, 4-stroke, 4-valves, DOHC",1
+273,FB Mondial,Italy,125 SuperSport,125.0,14.8,11.5,5-speed Manual,Chain,1,2.2,2020,"Modern, sporty",Cafe racer,"Single cylinder, air-cooled, 4-stroke, 4-valves, SOHC",1
+274,Zero Motorcycles,United States,Zero S,7.2,74.0,106.0,Automatic,Electric,1,13.0,2023,Naked,Street,Electric,1
+275,Zero Motorcycles,United States,Zero SR,11.4,92.0,130.0,Automatic,Electric,1,16.0,2023,Naked,Street,Electric,1
+276,Zero Motorcycles,United States,Zero SR/F,14.4,110.0,190.0,Automatic,Electric,1,20.0,2023,Sport,Street,Electric,1
+277,Zero Motorcycles,United States,Zero DS,11.4,92.0,130.0,Automatic,Electric,1,17.0,2023,Adventure,Dual-sport,Electric,1
+278,Zero Motorcycles,United States,Zero FX,7.2,74.0,106.0,Automatic,Electric,1,14.0,2023,Dirt,Off-road,Electric,1
+279,Larry vs Harry,Denmark,Bullitt,125.0,151.2,11.0,5-speed Manual,Chain,1,1.45,2023,Classic,Cargo,Single,1
+280,Aeon,Japan,Revo 300,292.0,27.6,31.0,Manual,Chain,2,1.05,2022,Modern,Sport,Single-cylinder,1
+281,Aeon,Japan,Revo 125,124.9,13.2,12.8,Manual,Chain,2,0.55,2022,Modern,Street,Single-cylinder,1
+282,Aeon,India,Neo 110,110.0,9.0,11.6,Manual,Chain,2,0.4,2022,Retro,Classic,Single-cylinder,1
+283,Aeon,India,Mio 110,110.0,8.5,11.6,Automatic,CVT,2,0.35,2022,Modern,Scooter,Single-cylinder,1
+284,Can-Am,Canada,Spyder RT,1330.0,115.0,156.4,6-speed Manual,Other,2,18.5,2023,Modern,Cruiser,Rotax ACE,3
+285,Can-Am,Canada,Ryker,600.0,50.0,62.6,CVT,Other,2,13.5,2023,Sporty,Roadster,Rotax 600 ACE,3
+286,Can-Am,Canada,F3,990.0,97.0,93.8,6-speed Manual,Other,2,15.0,2023,Sleek,Cruiser,Rotax 990 ACE,3
+287,Scomadi,Italy,TL125,124.6,9.39,8.3,CVT,Belt,2,0.88,2023,Retro,Scooter,Single cylinder,1
+288,Scomadi,Italy,Sixty2,279.5,19.5,22.0,CVT,Belt,2,1.99,2023,Retro,Cafe racer,Single cylinder,1
+289,Scomadi,Italy,TT125,124.6,9.39,8.3,CVT,Belt,2,0.88,2023,Retro,Scrambler,Single cylinder,1
+290,Genuine Scooters,Taiwan,Buddy 50,49.0,3.3,3.5,Automatic,CVT,1,0.45,2023,Retro,Standard,2-stroke,1
+291,Genuine Scooters,Taiwan,Buddy 125,125.0,9.5,10.2,Automatic,CVT,2,0.6,2023,Modern,Standard,4-stroke,1
+292,Genuine Scooters,Taiwan,Buddy 170i,170.0,11.6,12.8,Automatic,CVT,2,0.8,2023,Modern,Standard,4-stroke,1
+293,Genuine Scooters,Taiwan,Buddy KICK,125.0,10.5,11.5,Automatic,CVT,2,0.7,2023,Modern,Standard,4-stroke,1
+294,Genuine Scooters,Taiwan,Hooligan 170i,170.0,14.5,15.5,Automatic,CVT,2,0.9,2023,Retro,Standard,4-stroke,1
+295,Genuine Scooters,Taiwan,Roughhouse 50,50.0,3.5,3.8,Automatic,CVT,1,0.35,2023,Retro,Standard,2-stroke,1
+296,Genuine Scooters,Taiwan,Roughhouse 50 SPORT,50.0,4.5,4.8,Automatic,CVT,1,0.4,2023,Modern,Standard,2-stroke,1
+297,Genuine Scooters,Taiwan,Rattler 50,50.0,3.3,3.5,Automatic,CVT,1,0.3,2023,Retro,Standard,2-stroke,1
+298,Genuine Scooters,Taiwan,Venture 50,50.0,4.5,4.8,Automatic,CVT,1,0.45,2023,Modern,Standard,4-stroke,1
+299,UM Motorcycles,China,Renegade Commando,279.5,25.5,23.0,5-speed Manual,Chain,2,1.64,2023,Retro,Cruiser,"Single-cylinder, liquid-cooled, 4-stroke",1
+300,UM Motorcycles,China,Renegade Sport S,280.0,26.5,22.5,5-speed Manual,Chain,2,1.57,2023,Modern,Sport,"Single-cylinder, liquid-cooled, 4-stroke",1
+301,UM Motorcycles,China,Renegade Duty S,223.0,17.5,16.5,5-speed Manual,Chain,2,1.1,2023,Modern,Cruiser,"Single-cylinder, air-cooled, 4-stroke",1
+302,UM Motorcycles,China,Renegade Duty Ace,125.0,10.0,9.5,4-speed Manual,Chain,2,0.9,2023,Modern,Cruiser,"Single-cylinder, air-cooled, 4-stroke",1
+303,UM Motorcycles,China,Renegade Thor,374.0,35.0,70.0,6-speed Manual,Chain,2,4.9,2023,Modern,Cruiser,"V-twin, liquid-cooled, 4-stroke",2
+304,NIU,China,MQi GT,125.0,11.1,10.5,CVT,Automatic,2,1.5,2022,Futuristic,Scooter,Electric,1
+305,NIU,China,NQi GTS,125.0,9.4,11.8,CVT,Automatic,2,1.6,2022,Sleek,Scooter,Electric,1
+306,NIU,China,MQi Plus,125.0,9.4,11.8,CVT,Automatic,2,1.3,2022,Stylish,Scooter,Electric,1
+307,NIU,China,NQi Sport,125.0,9.4,11.8,CVT,Automatic,2,1.45,2022,Sporty,Scooter,Electric,1
+309,Sinnis,United Kingdom,Apache 125,125.0,11.5,10.5,CVT,Automatic,2,1.2,2023,Modern,Street Bike,Air-Cooled,1
+310,Sinnis,United Kingdom,Meteor 125,125.0,11.5,10.5,CVT,Automatic,2,1.3,2023,Classic,Cruiser,Air-Cooled,1
+311,Sinnis,United Kingdom,City 125,125.0,9.5,9.0,CVT,Automatic,2,1.0,2023,Urban,Scooter,Air-Cooled,1
+312,Sinnis,United Kingdom,Terrain 125,125.0,11.5,10.5,CVT,Automatic,2,1.4,2023,Adventure,Trail Bike,Air-Cooled,1
+313,Sinnis,United Kingdom,SM-XE 125,125.0,15.0,12.0,6-speed Manual,Chain,2,1.5,2023,Motocross,Street Bike,Air-Cooled,1
+314,SWM,Italy,Superdual T,600.0,54.38,53.5,6-speed Manual,Chain,2,6.8,2023,Modern,Adventure,Liquid-Cooled,1
+315,SWM,Italy,RS 650,650.0,55.0,55.0,6-speed Manual,Chain,2,8.5,2023,Modern,Naked,Liquid-Cooled,1
+316,SWM,Italy,Viale 650,650.0,55.0,55.0,6-speed Manual,Chain,2,7.8,2023,Classic,Cruiser,Liquid-Cooled,1
+317,SWM,Italy,RACER 125,125.0,11.5,10.5,CVT,Automatic,2,1.2,2023,Modern,Street Bike,Air-Cooled,1
+318,SWM,Italy,GRAN TURISMO 125,125.0,11.5,10.5,CVT,Automatic,2,1.3,2023,Classic,Cruiser,Air-Cooled,1
+319,Super Soco,China,TC,125.0,11.5,11.5,CVT,Automatic,2,1.4,2023,Modern,Scooter,Electric,1
+320,Super Soco,China,TC Max,125.0,5.0,11.5,CVT,Automatic,2,1.5,2023,Modern,Street Bike,Electric,1
+321,Super Soco,China,TS Street Hunter,125.0,3.0,15.0,CVT,Automatic,2,1.8,2023,Modern,Street Bike,Electric,1
+322,Super Soco,China,CUx,125.0,3.5,14.0,CVT,Automatic,2,1.3,2023,Retro,Scooter,Electric,1
+323,Super Soco,China,CPx,125.0,3.5,14.0,CVT,Automatic,2,1.4,2023,Modern,Scooter,Electric,1
+324,Royal Alloy,United Kingdom,Interceptor 650,649.0,47.6,52.0,6-speed Manual,Chain,2,4.5,2023,Classic,Cruiser,Air-Cooled,2
+325,Royal Alloy,United Kingdom,Himalayan,411.0,24.5,32.0,5-speed Manual,Chain,2,2.7,2023,Adventure,Trail Bike,Air-Cooled,1
+326,Royal Alloy,United Kingdom,Meteor 350,349.0,20.2,27.0,5-speed Manual,Chain,2,2.1,2023,Classic,Cruiser,Air-Cooled,1
+327,Royal Alloy,United Kingdom,CT 125,125.0,10.5,10.5,CVT,Automatic,2,1.1,2023,Retro,Scooter,Air-Cooled,1
+328,Royal Alloy,United Kingdom,Kent 125,125.0,10.5,10.5,CVT,Automatic,2,1.0,2023,Modern,Scooter,Air-Cooled,1
+329,Benelli,Italy,Imperiale 400,374.0,21.0,24.5,5-speed Manual,Chain,2,2.35,2020,Classic,Cruiser,"Single-cylinder, air-cooled",1
+330,Benelli,Italy,Leoncino 250,249.2,24.5,21.5,6-speed Manual,Chain,2,2.6,2020,Modern,Streetfighter,"Single-cylinder, liquid-cooled",1
+331,Benelli,Italy,TRK 251,250.9,25.0,21.0,6-speed Manual,Chain,2,2.99,2020,Adventure,Adventure touring,"Single-cylinder, liquid-cooled",1
+332,Benelli,Italy,TRK 502,500.0,47.6,46.0,6-speed Manual,Chain,2,4.69,<2020,Adventure,Adventure touring,"Parallel-twin, liquid-cooled",2
+333,Benelli,Italy,TNT 600i,600.0,85.0,54.0,6-speed Manual,Chain,2,6.19,<2020,Sport,Supersport,"Parallel-twin, liquid-cooled",2
+334,Benelli,Italy,Leoncino 500,500.0,47.5,46.0,6-speed Manual,Chain,2,5.6,<2020,Modern,Streetfighter,"Parallel-twin, liquid-cooled",2
+335,Benelli,Italy,502 C,500.0,47.5,46.0,6-speed Manual,Chain,2,5.85,2020,Retro,Cruiser,"Parallel-twin, liquid-cooled",2
+336,Benelli,Italy,TNT 600RR,600.0,118.0,66.0,6-speed Manual,Chain,2,7.5,2022,Sport,Supersport,"Parallel-twin, liquid-cooled",2
+337,AJS,United Kingdom,Cadwell 125,125.0,11.0,10.5,Manual,Chain,2,14.99,2023,Classic,Roadster,Single,1
+338,AJS,United Kingdom,Tempest Scrambler 125,125.0,11.0,10.5,Manual,Chain,2,15.49,2023,Modern,Scrambler,Single,1
+339,AJS,United Kingdom,Tempest Roadster 125,125.0,11.0,10.5,Manual,Chain,2,14.99,2023,Modern,Roadster,Single,1
+340,Mutt Motorcycles,United Kingdom,Akita 125,125.0,155.6,10.0,5-speed Manual,Chain,1,3.59,2022,Retro,Cafe Racer,"Single Cylinder, 4-Stroke, Air-cooled",1
+341,Zontes,China,350R,348.0,502.3,32.8,6-speed Manual,Chain,2,3.25,2022,Sporty,Naked,"Single-cylinder, liquid-cooled",1
+342,Zontes,China,350T,348.0,502.3,32.8,6-speed Manual,Chain,2,3.47,2022,Modern,Adventure tourer,"Single-cylinder, liquid-cooled",1
+343,Zontes,China,350X,348.0,502.3,32.8,6-speed Manual,Chain,2,3.57,2022,Rugged,Street scrambler,"Single-cylinder, liquid-cooled",1
+344,Zontes,China,GK350,348.0,502.3,32.8,6-speed Manual,Chain,2,3.67,2022,Classic,Cafe racer,"Single-cylinder, liquid-cooled",1
+345,Mutt Motorcycles,United Kingdom,Akita,125.0,155.6,10.0,5-speed Manual,Chain,1,3.59,2022,Retro-inspired,Cafe racer,"Single-cylinder, air-cooled",1
+346,Mutt Motorcycles,United Kingdom,FSR,250.0,243.3,17.0,5-speed Manual,Chain,1,4.99,2022,Retro-inspired,Scrambler,"Single-cylinder, air-cooled",1
+347,Mutt Motorcycles,United Kingdom,GT-SR,250.0,243.3,17.0,5-speed Manual,Chain,1,5.49,2022,Retro-inspired,Cafe racer,"Single-cylinder, air-cooled",1
+348,Mutt Motorcycles,United Kingdom,GT-SS,250.0,263.0,18.0,5-speed Manual,Chain,1,5.99,2022,Retro-inspired,Bobber,"Single-cylinder, air-cooled",1
+349,Mutt Motorcycles,United Kingdom,Hilts,250.0,243.3,17.0,5-speed Manual,Chain,1,5.29,2022,Retro-inspired,Tracker,"Single-cylinder, air-cooled",1
+350,Mutt Motorcycles,United Kingdom,Mastiff,250.0,263.0,18.0,5-speed Manual,Chain,1,6.49,2022,Retro-inspired,Cruiser,"Single-cylinder, air-cooled",1
+351,Mutt Motorcycles,United Kingdom,Mongrel,250.0,263.0,18.0,5-speed Manual,Chain,1,5.99,2022,Retro-inspired,Scrambler,"Single-cylinder, air-cooled",1
+352,Mutt Motorcycles,United Kingdom,Razorback,250.0,263.0,18.0,5-speed Manual,Chain,1,6.99,2022,Retro-inspired,Bobber,"Single-cylinder, air-cooled",1
+353,Mutt Motorcycles,United Kingdom,RS-13,250.0,263.0,18.0,5-speed Manual,Chain,1,6.79,2022,Retro-inspired,Cafe racer,"Single-cylinder, air-cooled",1
+354,Mutt Motorcycles,United Kingdom,Sabbath,250.0,263.0,18.0,5-speed Manual,Chain,1,7.49,2022,Retro-inspired,Cruiser,"Single-cylinder, air-cooled",1
+355,Energica Motor Company,Italy,Ego,1256.2,163.0,265.2,Automatic,Electric,1,21.15,<2020,Futuristic,Naked,Electric,1
+356,Energica Motor Company,Italy,Eva Ribelle,1256.2,163.0,265.2,Automatic,Electric,2,22.5,<2020,Modern,Roadster,Electric,1
+357,Energica Motor Company,Italy,EsseEsse9,1256.2,163.0,265.2,Automatic,Electric,2,25.0,<2020,Retro,Cruiser,Electric,1
+358,Energica Motor Company,Italy,EGO+,1438.9,171.0,301.9,Automatic,Electric,1,23.75,2022,Futuristic,Naked,Electric,1
+359,Energica Motor Company,Italy,Eva Ribelle RS,1438.9,171.0,301.9,Automatic,Electric,2,25.25,2022,Modern,Roadster,Electric,1
+360,Moto Morini,Italy,X-Cape,649.0,60.8,62.0,6-speed Manual,Other,2,7.2,2023,Modern,Adventure touring,"Liquid-cooled, DOHC",2
+361,Moto Morini,Italy,Seiemmezzo 6 ½,649.0,55.7,58.0,6-speed Manual,Other,2,6.89,2023,Retro,Naked,"Liquid-cooled, DOHC",2
