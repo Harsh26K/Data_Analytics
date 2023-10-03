@@ -1,0 +1,439 @@
+,Company,Investors
+0,InMobi,KPCB
+1,InMobi,Sherpalo Ventures
+2,InMobi,SoftBank
+3,Flipkart^,Accel
+4,Flipkart^,Tiger Global
+5,Flipkart^,Naspers
+6,Flipkart^,SoftBank
+7,Flipkart^,Tencent
+8,Mu Sigma,Accel
+9,Mu Sigma,Sequoia Capital
+10,Mu Sigma,General Atlantic
+11,Snapdeal*,Kalaari Capital
+12,Snapdeal*,Nexus Ventures
+13,Snapdeal*,Bessemer
+14,Snapdeal*,SoftBank
+15,Snapdeal*,Alibaba
+16,PayTM^,Saama Capital
+17,PayTM^,Elevation Capital
+18,PayTM^,Alibaba
+19,PayTM^,Berkshire Hathway
+20,Ola Cabs,Tiger Global
+21,Ola Cabs,Matrix Partners
+22,Ola Cabs,Steadview
+23,Ola Cabs,SoftBank
+24,Ola Cabs,Tencent
+25,Quikr*,Matrix Partners
+26,Quikr*,Omidyar Network
+27,Quikr*,Norwest
+28,Quikr*,Kinnevik
+29,Quikr*,Steadview Capital
+30,Zomato^,Info Edge
+31,Zomato^,Sequoia Capital
+32,Zomato^,Vy Capital
+33,Zomato^,Alibaba
+34,Zomato^,Steadview Capital
+35,ShopClues*,Nexus Ventures
+36,ShopClues*,Helion Ventures
+37,ShopClues*,Beenos
+38,ShopClues*,Tiger Global
+39,ShopClues*,Others
+40,Hike*,Tiger Global
+41,Hike*,Tencent
+42,Hike*,Foxconn
+43,BYJUS,Aarin Capital
+44,BYJUS,Sequoia Capital
+45,BYJUS,Lightspeed Ventures
+46,BYJUS,Tencent
+47,BYJUS,General Atlantic
+48,BYJUS,Tiger Global
+49,PayTM Mall*,Elevation Capital
+50,PayTM Mall*,Alibaba
+51,PayTM Mall*,SoftBank
+52,PayTM Mall*,eBay
+53,Swiggy,Accel
+54,Swiggy,Elevation Capital
+55,Swiggy,Norwest
+56,Swiggy,Naspers
+57,Swiggy,Tencent
+58,Swiggy,Invesco
+59,PolicyBazaar^,Info Edge
+60,PolicyBazaar^,Intel
+61,PolicyBazaar^,Inventus Capital
+62,PolicyBazaar^,Tiger Global
+63,PolicyBazaar^,SoftBank
+64,PolicyBazaar^,Tencent
+65,PolicyBazaar^,Steadview Capital
+66,Freshworks^,Accel
+67,Freshworks^,Tiger Global
+68,Freshworks^,Google
+69,Freshworks^,Sequoia Capital
+70,Freshworks^,Steadview Capital
+71,OYO Rooms,Lightspeed Ventures
+72,OYO Rooms,Sequoia Capital
+73,OYO Rooms,SoftBank
+74,Udaan,Lightspeed Ventures
+75,Udaan,DST Global
+76,Udaan,Tencent
+77,BillDesk,SIDBI VC
+78,BillDesk,TA Associates
+79,BillDesk,General Atlantic
+80,Delhivery^,Nexus Ventures
+81,Delhivery^,Multiples PE
+82,Delhivery^,Tiger Global
+83,Delhivery^,Carlyle
+84,Delhivery^,SoftBank
+85,Delhivery^,Fosun Group
+86,Delhivery^,Steadview Capital
+87,Rivigo,Elevation Capital
+88,Rivigo,Warburg Pincus
+89,BigBasket,Ascent Capital
+90,BigBasket,Helion Ventures
+91,BigBasket,Bessemer
+92,BigBasket,IFC
+93,BigBasket,Alibaba
+94,Dream11,Kalaari Capital
+95,Dream11,Tencent
+96,Dream11,Multiples PE
+97,Dream11,Steadview
+98,Dream11,Alpha Wave Global
+99,Druva Software,WestBridge
+100,Druva Software,Nexus Ventures
+101,Druva Software,Sequoia Capital
+102,Icertis,Eight Roads
+103,Icertis,B Capital
+104,Icertis,PremjiInvest
+105,CitiusTech,General Atlantic
+106,CitiusTech,Baring Asia
+107,Ola Electric,SoftBank
+108,Ola Electric,Tiger Global
+109,Ola Electric,Matrix Partners
+110,Lenskart,SoftBank
+111,Lenskart,Kedaara Capital
+112,Lenskart,TPG
+113,Lenskart,Chiratae Ventures
+114,Lenskart,TR Capital
+115,Pine Labs,Sequoia Capital India
+116,Pine Labs,New Atlantic Ventures
+117,Pine Labs,Altimeter Capital
+118,Pine Labs,Temasek
+119,Pine Labs,Mastercard
+120,Nykaa^,Techpro Ventures
+121,Nykaa^,TVS Capital
+122,Nykaa^,Sharrp Ventures
+123,Nykaa^,TPG Growth
+124,Nykaa^,Steadview Capital
+125,Postman,Nexus Ventures
+126,Postman,Charles River Ventures
+127,Postman,Insight Venture Partners
+128,Unacademy,Blume Ventures
+129,Unacademy,Nexus Venture Partners
+130,Unacademy,Sequoia Capital India
+131,Unacademy,Elevation Capital
+132,Unacademy,General Atlantic
+133,Unacademy,SoftBank
+134,Unacademy,Steadview Capital
+135,RazorPay,Matrix Partners India
+136,RazorPay,Tiger Global
+137,RazorPay,Sequoia Capital India
+138,RazorPay,DST Global
+139,Cars24,Asia Venture Group
+140,Cars24,Apoletto
+141,Cars24,Unbound
+142,Cars24,DST Global
+143,Cars24,Sequoia Capital India
+144,Cars24,Alpha Wave Global
+145,PhonePe^,Tiger Global
+146,PhonePe^,Tencent
+147,Zenoti,Accel India
+148,Zenoti,Norwest
+149,Zenoti,Tiger Global
+150,Zenoti,Steadview Capital
+151,Zenoti,Advent International
+152,Dailyhunt,Matrix Partners India
+153,Dailyhunt,Omidyar Network
+154,Dailyhunt,Sequoia Capital India
+155,Dailyhunt,Alpha Wave Global
+156,Dailyhunt,CPPIB
+157,Glance InMobi,Mithril Capital
+158,Glance InMobi,Google
+159,Digit,Fairfax Holdings
+160,Digit,A91 Partners
+161,Digit,Faering Capital
+162,Digit,TVS Capital
+163,Innovaccer,WestBridge
+164,Innovaccer,Lightspeed Ventures
+165,Innovaccer,M12 (Microsoft)
+166,Innovaccer,Tiger Global
+167,Innovaccer,Steadview Capital
+168,Infra.Market,Accel India
+169,Infra.Market,Nexus Venture Partners
+170,Infra.Market,Tiger Global
+171,Infra.Market,Evolvence India
+172,Five Star Business Finance^,Matrix Partners India
+173,Five Star Business Finance^,Sequoia Capital India
+174,Five Star Business Finance^,Norwest
+175,Five Star Business Finance^,Morgan Stanley
+176,Five Star Business Finance^,TPG Capital
+177,FirstCry,Chiratae Ventures
+178,FirstCry,Elevation Capital
+179,FirstCry,Vertex
+180,FirstCry,SoftBank
+181,Meesho,Sequoia Capital India
+182,Meesho,Elevation Capital
+183,Meesho,SoftBank
+184,Meesho,Naspers
+185,CRED,Sequoia Capital India
+186,CRED,Ribbit Capital
+187,CRED,DST Global
+188,CRED,Alpha Wave Global
+189,PharmEasy,Orios VP
+190,PharmEasy,Eight Roads Ventures
+191,PharmEasy,Temasek
+192,PharmEasy,Naspers
+193,PharmEasy,Steadview Capital
+194,Groww,Sequoia Capital India
+195,Groww,Y Combinator
+196,Groww,Tiger Global
+197,Groww,Ribbit Capital
+198,ShareChat,India Quotient
+199,ShareChat,Elevation Capital
+200,ShareChat,Lightspeed Ventures
+201,ShareChat,Tiger Global
+202,ShareChat,Twitter
+203,Gupshup,Tiger Global
+204,Gupshup,Charles River Ventures
+205,Gupshup,Helion Ventures
+206,ChargeBee,Tiger Global
+207,ChargeBee,Steadview Capital
+208,ChargeBee,Sapphire Ventures
+209,ChargeBee,Accel India
+210,ChargeBee,Insight Venture Partners
+211,Urban Company,Tiger Global
+212,Urban Company,Steadview Capital
+213,Urban Company,Accel India
+214,Urban Company,Elevation Capital
+215,Urban Company,Vy Capital
+216,Urban Company,Prosus Ventures
+217,Moglix,Accel India
+218,Moglix,Jungle Ventures
+219,Moglix,Tiger Global
+220,Moglix,Sequoia Capital India
+221,Moglix,IFC
+222,Zeta,SoftBank
+223,Zeta,Mastercard
+224,BrowserStack,Accel
+225,BrowserStack,Bond Capital
+226,BrowserStack,Insight Venture Partners
+227,BlackBuck,Accel India
+228,BlackBuck,Sequoia Capital India
+229,BlackBuck,Sands Capital
+230,BlackBuck,IFC
+231,BlackBuck,Tiger Global
+232,Droom,Beenos Partners
+233,Droom,Lightbox
+234,Droom,Axis Capital Partners
+235,Droom,Beenext
+236,OfBusiness,SoftBank
+237,OfBusiness,Tiger Global
+238,OfBusiness,Matrix Partners India
+239,OfBusiness,Zodius Capital
+240,OfBusiness,Alpha Wave Global
+241,BharatPe,Beenext
+242,BharatPe,Sequoia Capital India
+243,BharatPe,Tiger Global
+244,BharatPe,Steadview Capital
+245,MindTickle,SoftBank
+246,MindTickle,Accel India
+247,MindTickle,Qualcomm Ventures
+248,MindTickle,Norwest
+249,upGrad,Temasek
+250,upGrad,IFC
+251,upGrad,Lupa Systems
+252,CoinDCX,B Capital
+253,CoinDCX,Coinbase Ventures
+254,CoinDCX,Polychain Capital
+255,Eruditus,SoftBank
+256,Eruditus,Accel
+257,Eruditus,Sequoia Capital India
+258,Eruditus,Bertelsmann India Investments
+259,Blinkit^,Tiger Global
+260,Blinkit^,Sequoia Capital India
+261,Blinkit^,SoftBank
+262,Blinkit^,Apoletto
+263,Blinkit^,Zomato
+264,Zetwerk,Kae Capital
+265,Zetwerk,Sequoia Capital India
+266,Zetwerk,Accel India
+267,Zetwerk,Lightspeed Ventures
+268,Zetwerk,D1 Capital Partners
+269,Mobile Premier League,Sequoia Capital India
+270,Mobile Premier League,Beenext
+271,Mobile Premier League,Moore Strategic Ventures
+272,Mobile Premier League,RTP Global
+273,Mobile Premier League,VH Capital
+274,Apna.co,Sequoia Capital India
+275,Apna.co,Lightspeed Ventures
+276,Apna.co,Tiger Global
+277,Apna.co,Insight Venture Partners
+278,Vedantu,Accel India
+279,Vedantu,Tiger Global
+280,Vedantu,Omidyar Network
+281,Vedantu,WestBridge
+282,Vedantu,ABC World Asia
+283,Licious,Mayfield
+284,Licious,3ONE4 Capital
+285,Licious,Sistema Asia Fund
+286,Licious,Bertelsmann India
+287,Licious,Vertex
+288,Licious,Multiples PE
+289,CoinSwitch,Tiger Global
+290,CoinSwitch,Sequoia Capital India
+291,CoinSwitch,Ribbit Capital
+292,CoinSwitch,Andreessen Horowitz
+293,CoinSwitch,Coinbase Ventures
+294,Rebel Foods,Sequoia Capital India
+295,Rebel Foods,Lightbox
+296,Rebel Foods,Coatue Management
+297,Rebel Foods,RTP Global
+298,Rebel Foods,QIA
+299,Rebel Foods,Evolvence India
+300,Cardekho,Sequoia Capital India
+301,Cardekho,Hillhouse Capital
+302,Cardekho,CapitalG
+303,Cardekho,LeapFrog
+304,Acko,Accel India
+305,Acko,Elevation Capital
+306,Acko,Amazon
+307,Acko,General Atlantic
+308,Acko,Multiples PE
+309,MyGlamm,Amazon
+310,MyGlamm,Ascent Capital
+311,MyGlamm,Bessemer
+312,MyGlamm,Accel India
+313,MyGlamm,Wipro Ventures
+314,MyGlamm,Kalaari Capital
+315,CureFit,Accel India
+316,CureFit,Kalaari Capital
+317,CureFit,Chiratae Ventures
+318,CureFit,Zomato
+319,CureFit,Temasek
+320,CureFit,Endiya Partners
+321,Mensa Brands,Tiger Global
+322,Mensa Brands,Alpha Wave Global
+323,Mensa Brands,Accel India
+324,Mensa Brands,Norwest
+325,Mensa Brands,Prosus Ventures
+326,NoBroker,Tiger Global
+327,NoBroker,General Atlantic
+328,NoBroker,Elevation Capital
+329,NoBroker,Beenext
+330,NoBroker,Moore Strategic Ventures
+331,Spinny,Tiger Global
+332,Spinny,Blume Ventures
+333,Spinny,General Catalyst Partners
+334,Spinny,Elevation Capital
+335,Spinny,Accel India
+336,Upstox,Tiger Global
+337,Upstox,Ratan Tata
+338,Upstox,Kalaari Capital
+339,Slice,Tiger Global
+340,Slice,Blume Ventures
+341,Slice,Das Capital
+342,Slice,Simile Venture Partners
+343,Slice,Gunosy Capital
+344,Pristyn Care,Tiger Global
+345,Pristyn Care,Sequoia Capital India
+346,Pristyn Care,Hummingbird Ventures
+347,Pristyn Care,Epiq Capital
+348,Mamaearth,Sequoia Capital India
+349,Mamaearth,Sofina
+350,Mamaearth,Sharrp Ventures
+351,Mamaearth,Fireside Ventures
+352,GlobalBees,PremjiInvest
+353,GlobalBees,SoftBank Corp
+354,GlobalBees,TPG Capital
+355,GlobalBees,Steadview Capital
+356,Fractal,TPG Capital
+357,Fractal,TA Associates
+358,Fractal,Khazanah
+359,Fractal,Apax Partners
+360,LEAD School,GSV Ventures
+361,LEAD School,WestBridge
+362,LEAD School,Elevar Equity
+363,LEAD School,TPG Growth
+364,DarwinBox,3ONE4 Capital
+365,DarwinBox,Lightspeed Ventures
+366,DarwinBox,Sequoia Capital India
+367,DarwinBox,TCV
+368,DarwinBox,Endiya Partners
+369,DealShare,Whiteboard Capital
+370,DealShare,Z3Partners
+371,DealShare,Alpha Wave Global
+372,DealShare,Matrix Partners India
+373,DealShare,Tiger Global
+374,Polygon,Coinbase Ventures
+375,Polygon,Sequoia Capital India
+376,Polygon,Tiger Global
+377,Polygon,SoftBank
+378,ElasticRun,SoftBank
+379,ElasticRun,Goldman Sachs
+380,ElasticRun,Prosus Ventures
+381,ElasticRun,Kalaari Capital
+382,ElasticRun,Avataar Venture Partners
+383,LivSpace,KKR
+384,LivSpace,Jungle Ventures
+385,LivSpace,TPG Growth
+386,LivSpace,Bessemer
+387,LivSpace,Goldman Sachs
+388,XpressBees Logistics,InvestCorp Group
+389,XpressBees Logistics,Norwest
+390,XpressBees Logistics,Gaja Capital
+391,XpressBees Logistics,TPG Growth
+392,XpressBees Logistics,ChrysCapital
+393,Uniphore Software Systems,Iron Pillar
+394,Uniphore Software Systems,March Capital
+395,Uniphore Software Systems,Chiratae Ventures
+396,Uniphore Software Systems,NEA
+397,Hasura,Lightspeed Ventures
+398,Hasura,Nexus Venture Partners
+399,Hasura,Vertex
+400,Hasura,Strive VC
+401,CredAvenue,B Capital Group
+402,CredAvenue,Insight Venture Partners
+403,CredAvenue,Lightrock India
+404,CredAvenue,TVS Capital
+405,Amagi Media Labs,Avataar Venture Partners
+406,Amagi Media Labs,PremjiInvest
+407,Amagi Media Labs,Accel India
+408,Amagi Media Labs,Norwest
+409,Oxyzo Financial Services,Alpha Wave Global
+410,Oxyzo Financial Services,Matrix Partners India
+411,Oxyzo Financial Services,Tiger Global
+412,Oxyzo Financial Services,Norwest
+413,Games24x7,Tiger Global
+414,Games24x7,Malabar Investments
+415,Games24x7,The Raine Group
+416,Open Financial Technologies,3ONE4 Capital
+417,Open Financial Technologies,Tiger Global
+418,Open Financial Technologies,Temasek
+419,Open Financial Technologies,Speedinvest
+420,PhysicsWallah,GSV Ventures
+421,PhysicsWallah,WestBridge
+422,Purplle,JSW Ventures
+423,Purplle,IvyCap Ventures
+424,Purplle,Blume Ventures
+425,Purplle,Kedaara Capital
+426,Leadsquared,Stakeboat Capital
+427,Leadsquared,Gaja Capital
+428,Leadsquared,WestBridge
+429,OneCard,QED Investors
+430,OneCard,Matrix Partners India
+431,OneCard,Sequoia Capital India
+432,Shiprocket,Lightrock India
+433,Shiprocket,Info Edge
+434,Shiprocket,Tribe Capital
+435,Shiprocket,Temasek
+436,Molbio Diagnostics,Temasek
+437,Molbio Diagnostics,Motilal Oswal

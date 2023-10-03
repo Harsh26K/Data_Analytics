@@ -1,0 +1,103 @@
+,No.,Company,Sector,Entry_valuation($B),Current_valuation($B),Entry,Location,Investors,Type,time_period,value_over_period,eval_rise_per_year,Year
+0,1,InMobi,Adtech,1.0,1.0,Sep/2011,Bangalore,"KPCB, Sherpalo Ventures, SoftBank",U,11.75,0.0,0.0,2011-09-01
+1,2,Flipkart^,E-Commerce,1.0,37.6,Feb/2012,Bangalore,"Accel, Tiger Global, Naspers, SoftBank, Tencent",GU,11.33,36.6,3.23,2012-02-01
+2,3,Mu Sigma,SaaS,1.0,1.5,Feb/2013,Bangalore,"Accel, Sequoia Capital, General Atlantic",U,10.33,0.5,0.05,2013-02-01
+3,4,Snapdeal*,E-Commerce,1.8,2.4,Oct/2014,Delhi,"Kalaari Capital, Nexus Ventures, Bessemer, SoftBank, Alibaba",FU,8.67,0.5999999999999999,0.07,2014-10-01
+4,5,PayTM^,Fintech,1.7,16.0,Feb/2015,Noida,"Saama Capital, Elevation Capital, Alibaba, Berkshire Hathway",GU,8.33,14.3,1.72,2015-02-01
+5,6,Ola Cabs,Mobility,1.6,7.3,Mar/2015,Bangalore,"Tiger Global, Matrix Partners, Steadview, SoftBank, Tencent",U,8.25,5.699999999999999,0.69,2015-03-01
+6,7,Quikr*,Marketplace,1.0,1.5,Apr/2015,Bangalore,"Matrix Partners, Omidyar Network, Norwest, Kinnevik, Steadview Capital",FU,8.17,0.5,0.06,2015-04-01
+7,8,Zomato^,Foodtech,1.0,5.4,Sep/2015,Gurgaon,"Info Edge, Sequoia Capital, Vy Capital, Alibaba, Steadview Capital",GU,7.75,4.4,0.57,2015-09-01
+8,9,ShopClues*,E-Commerce,1.1,1.1,Jan/2016,Gurgaon,"Nexus Ventures, Helion Ventures, Beenos, Tiger Global, Others",FU,7.42,0.0,0.0,2016-01-01
+9,10,Hike*,Social,1.4,1.4,Aug/2016,Delhi,"Tiger Global, Tencent, Foxconn",FU,6.83,0.0,0.0,2016-08-01
+10,11,BYJUS,Edtech,1.0,22.0,Jan/2018,Bangalore,"Aarin Capital, Sequoia Capital, Lightspeed Ventures, Tencent, General Atlantic, Tiger Global",U,5.42,21.0,3.87,2018-01-01
+11,12,PayTM Mall*,E-Commerce,1.9,3.0,Apr/2018,Noida,"Elevation Capital, Alibaba, SoftBank, eBay",FU,5.17,1.1,0.21,2018-04-01
+12,13,Swiggy,Foodtech,1.4,10.7,Jun/2018,Bangalore,"Accel, Elevation Capital, Norwest, Naspers, Tencent, Invesco",U,5.0,9.299999999999999,1.86,2018-06-01
+13,14,PolicyBazaar^,Fintech,1.0,2.4,Jun/2018,Gurgaon,"Info Edge, Intel, Inventus Capital, Tiger Global, SoftBank, Tencent, Steadview Capital",GU,5.0,1.4,0.28,2018-06-01
+14,15,Freshworks^,SaaS,1.5,3.5,Jul/2018,Chennai,"Accel, Tiger Global, Google, Sequoia Capital, Steadview Capital",GU,4.92,2.0,0.41,2018-07-01
+15,16,OYO Rooms,Proptech,4.9,9.6,Sep/2018,Gurgaon,"Lightspeed Ventures, Sequoia Capital, SoftBank",U,4.75,4.699999999999999,0.99,2018-09-01
+16,17,Udaan,B2B,1.0,3.1,Sep/2018,Bangalore,"Lightspeed Ventures, DST Global, Tencent",U,4.75,2.1,0.44,2018-09-01
+17,18,BillDesk,Fintech,1.6,1.6,Nov/2018,Mumbai,"SIDBI VC, TA Associates, General Atlantic",U,4.58,0.0,0.0,2018-11-01
+18,19,Delhivery^,Logistics Services,1.6,3.0,Jan/2019,Gurgaon,"Nexus Ventures, Multiples PE, Tiger Global, Carlyle, SoftBank, Fosun Group, Steadview Capital",GU,4.42,1.4,0.32,2019-01-01
+19,20,Rivigo,Logistics,1.1,1.1,Feb/2019,Gurgaon,"Elevation Capital, Warburg Pincus",U,4.33,0.0,0.0,2019-02-01
+20,21,BigBasket,E-Commerce,1.1,2.0,Mar/2019,Bangalore,"Ascent Capital, Helion Ventures, Bessemer, IFC, Alibaba",U,4.25,0.8999999999999999,0.21,2019-03-01
+21,22,Dream11,Gaming,1.0,8.0,Apr/2019,Mumbai,"Kalaari Capital, Tencent, Multiples PE, Steadview, Alpha Wave Global",U,4.17,7.0,1.68,2019-04-01
+22,23,Druva Software,SaaS,1.0,2.0,Jun/2019,Pune,"WestBridge, Nexus Ventures, Sequoia Capital",U,4.0,1.0,0.25,2019-06-01
+23,24,Icertis,SaaS,1.0,5.0,Jul/2019,Pune,"Eight Roads, B Capital, PremjiInvest",U,3.92,4.0,1.02,2019-07-01
+24,25,CitiusTech,IT,1.1,1.1,Jul/2019,Mumbai,"General Atlantic, Baring Asia",U,3.92,0.0,0.0,2019-07-01
+25,26,Ola Electric,Mobility,1.1,5.0,Jul/2019,Bangalore,"SoftBank, Tiger Global, Matrix Partners",U,3.92,3.9,0.99,2019-07-01
+26,27,Lenskart,E-Commerce,1.1,4.5,Sep/2019,Delhi,"SoftBank, Kedaara Capital, TPG, Chiratae Ventures, TR Capital",U,3.75,3.4,0.91,2019-09-01
+27,28,Pine Labs,Fintech,1.6,5.0,Jan/2020,Noida,"Sequoia Capital India, New Atlantic Ventures, Altimeter Capital, Temasek, Mastercard",U,3.42,3.4,0.99,2020-01-01
+28,29,Nykaa^,E-Commerce,1.2,1.8,Mar/2020,Mumbai,"Techpro Ventures, TVS Capital, Sharrp Ventures, TPG Growth, Steadview Capital",GU,3.25,0.6000000000000001,0.18,2020-03-01
+29,30,Postman,SaaS,2.0,5.6,Jun/2020,Bangalore,"Nexus Ventures, Charles River Ventures, Insight Venture Partners",U,3.0,3.5999999999999996,1.2,2020-06-01
+30,31,Unacademy,Edtech,1.4,3.4,Sep/2020,Bangalore,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India, Elevation Capital, General Atlantic, SoftBank, Steadview Capital",U,2.75,2.0,0.73,2020-09-01
+31,32,RazorPay,Fintech,1.0,7.5,Oct/2020,Bangalore,"Matrix Partners India, Tiger Global, Sequoia Capital India, DST Global",U,2.67,6.5,2.43,2020-10-01
+32,33,Cars24,Marketplace,1.0,3.3,Nov/2020,Gurgaon,"Asia Venture Group, Apoletto, Unbound, DST Global, Sequoia Capital India, Alpha Wave Global",U,2.58,2.3,0.89,2020-11-01
+33,34,PhonePe^,Fintech,5.5,12.0,Dec/2020,Bangalore,"Tiger Global, Tencent",GU,2.5,6.5,2.6,2020-12-01
+34,35,Zenoti,SaaS,1.0,1.5,Dec/2020,Hyderabad,"Accel India, Norwest, Tiger Global, Steadview Capital, Advent International",U,2.5,0.5,0.2,2020-12-01
+35,36,Dailyhunt,Content,1.0,5.0,Dec/2020,Bangalore,"Matrix Partners India, Omidyar Network, Sequoia Capital India, Alpha Wave Global, CPPIB",U,2.5,4.0,1.6,2020-12-01
+36,37,Glance InMobi,Content,1.0,2.0,Dec/2020,Bangalore,"Mithril Capital, Google",U,2.5,1.0,0.4,2020-12-01
+37,38,Digit,Fintech,1.9,4.0,Jan/2021,Bangalore,"Fairfax Holdings, A91 Partners, Faering Capital, TVS Capital",U,2.42,2.1,0.87,2021-01-01
+38,39,Innovaccer,SaaS,1.3,3.2,Feb/2021,Noida,"WestBridge, Lightspeed Ventures, M12 (Microsoft), Tiger Global, Steadview Capital",U,2.33,1.9000000000000001,0.82,2021-02-01
+39,40,Infra.Market,B2B,1.0,2.5,Feb/2021,Thane,"Accel India, Nexus Venture Partners, Tiger Global, Evolvence India",U,2.33,1.5,0.64,2021-02-01
+40,41,Five Star Business Finance^,NBFC,1.4,1.4,Mar/2021,Chennai,"Matrix Partners India, Sequoia Capital India, Norwest, Morgan Stanley, TPG Capital",GU,2.25,0.0,0.0,2021-03-01
+41,42,FirstCry,E-Commerce,1.7,1.7,Mar/2021,Pune,"Chiratae Ventures, Elevation Capital, Vertex, SoftBank",U,2.25,0.0,0.0,2021-03-01
+42,43,Meesho,E-Commerce,2.1,4.9,Apr/2021,Bangalore,"Sequoia Capital India, Elevation Capital, SoftBank, Naspers",U,2.17,2.8000000000000003,1.29,2021-04-01
+43,44,CRED,Fintech,2.2,6.4,Apr/2021,Bangalore,"Sequoia Capital India, Ribbit Capital, DST Global, Alpha Wave Global",U,2.17,4.2,1.94,2021-04-01
+44,45,PharmEasy,E-Commerce,1.5,5.6,Apr/2021,Mumbai,"Orios VP, Eight Roads Ventures, Temasek, Naspers, Steadview Capital",U,2.17,4.1,1.89,2021-04-01
+45,46,Groww,Fintech,1.0,3.0,Apr/2021,Bangalore,"Sequoia Capital India, Y Combinator, Tiger Global, Ribbit Capital",U,2.17,2.0,0.92,2021-04-01
+46,47,ShareChat,Social Media,2.1,4.9,Apr/2021,Bangalore,"India Quotient, Elevation Capital, Lightspeed Ventures, Tiger Global, Twitter",U,2.17,2.8000000000000003,1.29,2021-04-01
+47,48,Gupshup,Conversational Messaging,1.4,1.4,Apr/2021,Mumbai,"Tiger Global, Charles River Ventures, Helion Ventures",U,2.17,0.0,0.0,2021-04-01
+48,49,ChargeBee,SaaS,1.4,3.5,Apr/2021,Chennai,"Tiger Global, Steadview Capital, Sapphire Ventures, Accel India, Insight Venture Partners",U,2.17,2.1,0.97,2021-04-01
+49,50,Urban Company,Marketplace,2.1,2.1,Apr/2021,Delhi,"Tiger Global, Steadview Capital, Accel India, Elevation Capital, Vy Capital, Prosus Ventures",U,2.17,0.0,0.0,2021-04-01
+50,51,Moglix,B2B,1.0,2.6,May/2021,Noida,"Accel India, Jungle Ventures, Tiger Global, Sequoia Capital India, IFC",U,2.08,1.6,0.77,2021-05-01
+51,52,Zeta,Fintech,1.4,1.5,May/2021,Bangalore,"SoftBank, Mastercard",U,2.08,0.10000000000000009,0.05,2021-05-01
+52,53,BrowserStack,SaaS,4.0,4.0,Jun/2021,Mumbai,"Accel, Bond Capital, Insight Venture Partners",U,2.0,0.0,0.0,2021-06-01
+53,54,BlackBuck,Logistics Services,1.0,1.0,Jul/2021,Bangalore,"Accel India, Sequoia Capital India, Sands Capital, IFC, Tiger Global",U,1.92,0.0,0.0,2021-07-01
+54,55,Droom,Marketplace,1.2,1.2,Jul/2021,Gurgaon,"Beenos Partners, Lightbox, Axis Capital Partners, Beenext",U,1.92,0.0,0.0,2021-07-01
+55,56,OfBusiness,NBFC,1.5,5.0,Jul/2021,Gurgaon,"SoftBank, Tiger Global, Matrix Partners India, Zodius Capital, Alpha Wave Global",U,1.92,3.5,1.82,2021-07-01
+56,57,BharatPe,Fintech,2.8,2.8,Aug/2021,Delhi,"Beenext, Sequoia Capital India, Tiger Global, Steadview Capital",U,1.83,0.0,0.0,2021-08-01
+57,58,MindTickle,SaaS,1.2,1.2,Aug/2021,Bangalore,"SoftBank, Accel India, Qualcomm Ventures, Norwest",U,1.83,0.0,0.0,2021-08-01
+58,59,upGrad,Edtech,1.2,2.25,Aug/2021,Mumbai,"Temasek, IFC, Lupa Systems",U,1.83,1.05,0.57,2021-08-01
+59,60,CoinDCX,Cryptocurrency Exchange,1.1,2.15,Aug/2021,Mumbai,"B Capital, Coinbase Ventures, Polychain Capital",U,1.83,1.0499999999999998,0.57,2021-08-01
+60,61,Eruditus,Edtech,3.2,3.2,Aug/2021,Mumbai,"SoftBank, Accel, Sequoia Capital India, Bertelsmann India Investments",U,1.83,0.0,0.0,2021-08-01
+61,62,Blinkit^,E-Commerce,1.0,0.568,Aug/2021,Gurgaon,"Tiger Global, Sequoia Capital India, SoftBank, Apoletto, Zomato",GU,1.83,-0.43200000000000005,-0.24,2021-08-01
+62,63,Zetwerk,Marketplace,1.0,2.5,Aug/2021,Bangalore,"Kae Capital, Sequoia Capital India, Accel India, Lightspeed Ventures, D1 Capital Partners",U,1.83,1.5,0.82,2021-08-01
+63,64,Mobile Premier League,Gaming,2.3,2.3,Sep/2021,Bangalore,"Sequoia Capital India, Beenext, Moore Strategic Ventures, RTP Global, VH Capital",U,1.75,0.0,0.0,2021-09-01
+64,65,Apna.co,Marketplace,1.1,1.1,Sep/2021,Bangalore,"Sequoia Capital India, Lightspeed Ventures, Tiger Global, Insight Venture Partners",U,1.75,0.0,0.0,2021-09-01
+65,66,Vedantu,Edtech,1.0,1.0,Sep/2021,Bangalore,"Accel India, Tiger Global, Omidyar Network, WestBridge, ABC World Asia",U,1.75,0.0,0.0,2021-09-01
+66,67,Licious,D2C,1.0,1.3,Oct/2021,Bangalore,"Mayfield, 3ONE4 Capital, Sistema Asia Fund, Bertelsmann India, Vertex, Multiples PE",U,1.67,0.30000000000000004,0.18,2021-10-01
+67,68,CoinSwitch,Cryptocurrency Exchange,1.9,1.9,Oct/2021,Bangalore,"Tiger Global, Sequoia Capital India, Ribbit Capital, Andreessen Horowitz, Coinbase Ventures",U,1.67,0.0,0.0,2021-10-01
+68,69,Rebel Foods,Foodtech,1.4,1.4,Oct/2021,Mumbai,"Sequoia Capital India, Lightbox, Coatue Management, RTP Global, QIA, Evolvence India",U,1.67,0.0,0.0,2021-10-01
+69,70,Cardekho,Marketplace,1.2,1.2,Oct/2021,Jaipur,"Sequoia Capital India, Hillhouse Capital, CapitalG, LeapFrog",U,1.67,0.0,0.0,2021-10-01
+70,71,Acko,Fintech,1.1,1.1,Oct/2021,Bangalore,"Accel India, Elevation Capital, Amazon, General Atlantic, Multiples PE",U,1.67,0.0,0.0,2021-10-01
+71,72,MyGlamm,D2C,1.2,1.2,Nov/2021,Mumbai,"Amazon, Ascent Capital, Bessemer, Accel India, Wipro Ventures, Kalaari Capital",U,1.58,0.0,0.0,2021-11-01
+72,73,CureFit,Healthtech,1.5,1.5,Nov/2021,Bangalore,"Accel India, Kalaari Capital, Chiratae Ventures, Zomato, Temasek, Endiya Partners",U,1.58,0.0,0.0,2021-11-01
+73,74,Mensa Brands,Aggregator,1.2,1.2,Nov/2021,Bangalore,"Tiger Global, Alpha Wave Global, Accel India, Norwest, Prosus Ventures",U,1.58,0.0,0.0,2021-11-01
+74,75,NoBroker,Proptech,1.0,1.0,Nov/2021,Bangalore,"Tiger Global, General Atlantic, Elevation Capital, Beenext, Moore Strategic Ventures",U,1.58,0.0,0.0,2021-11-01
+75,76,Spinny,Marketplace,1.5,1.8,Nov/2021,Gurgaon,"Tiger Global, Blume Ventures, General Catalyst Partners, Elevation Capital, Accel India",U,1.58,0.30000000000000004,0.19,2021-11-01
+76,77,Upstox,Fintech,3.4,3.4,Nov/2021,Mumbai,"Tiger Global, Ratan Tata, Kalaari Capital",U,1.58,0.0,0.0,2021-11-01
+77,78,Slice,Fintech,1.0,1.0,Nov/2021,Bangalore,"Tiger Global, Blume Ventures, Das Capital, Simile Venture Partners, Gunosy Capital",U,1.58,0.0,0.0,2021-11-01
+78,79,Pristyn Care,Healthtech,1.4,1.4,Dec/2021,Gurgaon,"Tiger Global, Sequoia Capital India, Hummingbird Ventures, Epiq Capital",U,1.5,0.0,0.0,2021-12-01
+79,80,Mamaearth,D2C,1.07,1.07,Dec/2021,Gurgaon,"Sequoia Capital India, Sofina, Sharrp Ventures, Fireside Ventures",U,1.5,0.0,0.0,2021-12-01
+80,81,GlobalBees,Aggregator,1.1,1.1,Dec/2021,Delhi,"PremjiInvest, SoftBank Corp, TPG Capital, Steadview Capital",U,1.5,0.0,0.0,2021-12-01
+81,82,Fractal,SaaS,1.0,1.0,Jan/2022,Mumbai,"TPG Capital, TA Associates, Khazanah, Apax Partners",U,1.42,0.0,0.0,2022-01-01
+82,83,LEAD School,Edtech,1.1,1.1,Jan/2022,Mumbai,"GSV Ventures, WestBridge, Elevar Equity, TPG Growth",U,1.42,0.0,0.0,2022-01-01
+83,84,DarwinBox,SaaS,1.0,1.0,Jan/2022,Hyderabad,"3ONE4 Capital, Lightspeed Ventures, Sequoia Capital India, TCV, Endiya Partners",U,1.42,0.0,0.0,2022-01-01
+84,85,DealShare,E-Commerce,1.62,1.7,Jan/2022,Jaipur,"Whiteboard Capital, Z3Partners, Alpha Wave Global, Matrix Partners India, Tiger Global",U,1.42,0.07999999999999985,0.06,2022-01-01
+85,86,Polygon,Web3,10.0,10.0,Feb/2022,Bangalore,"Coinbase Ventures, Sequoia Capital India, Tiger Global, SoftBank",U,1.33,0.0,0.0,2022-02-01
+86,87,ElasticRun,Logistics Services,1.4,1.4,Feb/2022,Pune,"SoftBank, Goldman Sachs, Prosus Ventures, Kalaari Capital, Avataar Venture Partners",U,1.33,0.0,0.0,2022-02-01
+87,88,LivSpace,Interior,1.2,1.2,Feb/2022,Bangalore,"KKR, Jungle Ventures, TPG Growth, Bessemer, Goldman Sachs",U,1.33,0.0,0.0,2022-02-01
+88,89,XpressBees Logistics,Logistics Services,1.2,1.2,Feb/2022,Pune,"InvestCorp Group, Norwest, Gaja Capital, TPG Growth, ChrysCapital",U,1.33,0.0,0.0,2022-02-01
+89,90,Uniphore Software Systems,SaaS,2.5,2.5,Feb/2022,Chennai,"Iron Pillar, March Capital, Chiratae Ventures, NEA",U,1.33,0.0,0.0,2022-02-01
+90,91,Hasura,SaaS,1.0,1.0,Feb/2022,Bangalore,"Lightspeed Ventures, Nexus Venture Partners, Vertex, Strive VC",U,1.33,0.0,0.0,2022-02-01
+91,92,CredAvenue,Marketplace,1.3,1.3,Mar/2022,Chennai,"B Capital Group, Insight Venture Partners,  Lightrock India, TVS Capital",U,1.25,0.0,0.0,2022-03-01
+92,93,Amagi Media Labs,SaaS,1.0,1.0,Mar/2022,Bangalore,"Avataar Venture Partners, PremjiInvest, Accel India, Norwest",U,1.25,0.0,0.0,2022-03-01
+93,94,Oxyzo Financial Services,Fintech,1.0,1.0,Mar/2022,Gurgaon,"Alpha Wave Global, Matrix Partners India, Tiger Global, Norwest",U,1.25,0.0,0.0,2022-03-01
+94,95,Games24x7,Gaming,2.5,2.5,Mar/2022,Mumbai,"Tiger Global, Malabar Investments,  The Raine Group",U,1.25,0.0,0.0,2022-03-01
+95,96,Open Financial Technologies,Fintech,1.0,1.0,May/2022,Bangalore,"3ONE4 Capital, Tiger Global, Temasek, Speedinvest",U,1.08,0.0,0.0,2022-05-01
+96,97,PhysicsWallah,Edtech,1.1,1.1,Jun/2022,Noida,"GSV Ventures, WestBridge",U,1.0,0.0,0.0,2022-06-01
+97,98,Purplle,E-Commerce,1.1,1.1,Jun/2022,Mumbai,"JSW Ventures, IvyCap Ventures, Blume Ventures, Kedaara Capital",U,1.0,0.0,0.0,2022-06-01
+98,99,Leadsquared,SaaS,1.0,1.0,Jun/2022,Bangalore,"Stakeboat Capital, Gaja Capital, WestBridge",U,1.0,0.0,0.0,2022-06-01
+99,100,OneCard,Fintech,1.3,1.3,Jul/2022,Pune,"QED Investors, Matrix Partners India, Sequoia Capital India",U,0.92,0.0,0.0,2022-07-01
+100,101,Shiprocket,Aggregator,1.23,1.23,Aug/2022,Delhi,"Lightrock India, Info Edge, Tribe Capital, Temasek",U,0.83,0.0,0.0,2022-08-01
+101,102,Molbio Diagnostics,Healthtech,1.53,1.53,Sep/2022,Goa,"Temasek, Motilal Oswal",U,0.75,0.0,0.0,2022-09-01
