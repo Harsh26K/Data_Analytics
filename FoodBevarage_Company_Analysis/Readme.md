@@ -13,7 +13,7 @@ ut, if we look it as %, male and female are very much equally interested in the 
 2. Which age group preferes energy drinks more?
 	
 	1. 31-45
-	2. 15-30 (combined to groups as stats are similar)
+	2. 15-18 and 19-30
 	3. 45+
 
 3. Which type of marketing reaches the most youth?
