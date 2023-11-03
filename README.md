@@ -1,6 +1,13 @@
 # Data_Analytics
 End to End Data analytics projects
 
+## [Supply Chain Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/SupplyChain_Issue_In_FMGC)
+   - Data Source : codebasics.io
+   - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/SupplyChain_Issue_In_FMGC/Data)
+   - The files contain inforamtion about customers, branches, products, orders, supply lines of a FMGC Company.
+   - Data Visualization
+   - PowerBI | PowerQuery
+
 ## [Provide Survey Insights to marketing team of F&B Company](https://github.com/Harsh26K/Data_Analytics/tree/Main/FoodBevarage_Company_Analysis)
    - Data Source : codebasics.io
    - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/FoodBevarage_Company_Analysis/Dataset)
