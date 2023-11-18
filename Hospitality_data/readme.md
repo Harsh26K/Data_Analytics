@@ -11,7 +11,7 @@ Live Dashboard: [Click Here](https://www.novypro.com/project/hospitality-data-in
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 </p>
 
-<h2>Task:</h2>  
+<h2>Expected Tasks:</h2>  
 
 <ol>
 <li>Create the metrics according to the metric list.</li>
@@ -19,5 +19,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 <li>Create relevant insights that are not provided in the metric list/mock-up dashboard.</li>
 </ol>
 
-<h2>Data model</h2>
-<img src="./images/Data model.jpg"></img>
+<h2>Completed Tasks:</h2>
+<ol>
+<li>Created metrics according to the metric list.</li>
+<li>Created a dashboard with navigations,bookmarks,filters to present insights</li>
+<li>Created revenue insights, occupancy insights, booking insights for the hotel chain using PowerQuery and visualization charts</li>
+<li>Created necessary Data model</li>
+</ol>
+
