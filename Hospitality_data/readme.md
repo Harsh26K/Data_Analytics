@@ -20,4 +20,4 @@ Their revenue management team had decided to hire a 3rd party service provider t
 </ol>
 
 <h2>Data model</h2>
-<img src=""></img>
+<img src="./images/Data model.jpg"></img>
