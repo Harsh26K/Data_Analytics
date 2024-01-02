@@ -1,6 +1,21 @@
 # Data_Analytics
 End to End Data analytics projects
 
+## [Hospitality Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/Hospitality_data)
+   - Data Source : Codebasics.io
+   - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/Hospitality_data/data)
+   - The data contain information about hotels, bookings, revenue of a hotel chain Company.
+   - Data Analytics | Data Visualization
+   - PowerBI | PowerQuery
+
+
+## [Consumer Goods Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/Consumer_Goods_Data_Analysis)
+   - Data Source : Codebasics.io
+   - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/Consumer_Goods_Data_Analysis/data)
+   - The data contain information about customers,products prices and manufacturing costs,sales of a hotel chain Company.
+   - Data Analytics | Data Visualization
+   - PowerBI | PowerQuery
+
 ## [Supply Chain Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/SupplyChain_Issue_In_FMGC)
    - Data Source : codebasics.io
    - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/SupplyChain_Issue_In_FMGC/Data)
