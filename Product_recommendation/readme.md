@@ -1,4 +1,5 @@
 <a href="https://www.canva.com/design/DAF2TXOJqzk/mo6U0NxzlI601zSL2hvrng/view?utm_content=DAF2TXOJqzk&utm_campaign=designshare&utm_medium=link&utm_source=editor">Presentation</a>
+<a href="https://www.novypro.com/project/provide-insights-to-the-product-strategy-team">Dashboard/Report</a>
 <h1>Provide Product recommendation to stategy team</h1>
 <h3>Domain: Banking     |      Function: Strategy</h3>
 
