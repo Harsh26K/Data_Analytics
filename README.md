@@ -1,13 +1,19 @@
 # Data_Analytics
 End to End Data analytics projects
 
+## [Provide Insights to Strategy Team in Banking Domain](https://github.com/Harsh26K/Data_Analytics/tree/Main/product_recommendation) 
+   - Data Source : Codebasics.io
+   - Data :
+   - data contains information about customers of a bank, their expense and payment methods used to clear them.
+   - Data Cleaning | Analytics | Visualization | Presentation
+   - Python | PowerQuery | PowerBI
+
 ## [Hospitality Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/Hospitality_data)
    - Data Source : Codebasics.io
    - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/Hospitality_data/data)
    - The data contain information about hotels, bookings, revenue of a hotel chain Company.
    - Data Analytics | Data Visualization
    - PowerBI | PowerQuery
-
 
 ## [Consumer Goods Data Analytics](https://github.com/Harsh26K/Data_Analytics/tree/Main/Consumer_Goods_Data_Analysis)
    - Data Source : Codebasics.io
@@ -20,7 +26,7 @@ End to End Data analytics projects
    - Data Source : codebasics.io
    - Data : [dataset](https://github.com/Harsh26K/Data_Analytics/tree/Main/SupplyChain_Issue_In_FMGC/Data)
    - The files contain inforamtion about customers, branches, products, orders, supply lines of a FMGC Company.
-   - Data Visualization
+   - Data Analytics | Data Visualization | Presentation
    - PowerBI | PowerQuery
 
 ## [Provide Survey Insights to marketing team of F&B Company](https://github.com/Harsh26K/Data_Analytics/tree/Main/FoodBevarage_Company_Analysis)
