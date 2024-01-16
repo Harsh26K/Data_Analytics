@@ -1,9 +1,9 @@
 # Data_Analytics
 End to End Data analytics projects
 
-## [Provide Insights to Strategy Team in Banking Domain](https://github.com/Harsh26K/Data_Analytics/tree/Main/product_recommendation) 
+## [Provide Insights to Strategy Team in Banking Domain](https://github.com/Harsh26K/Data_Analytics/tree/Main/Product_recommendation) 
    - Data Source : Codebasics.io
-   - Data :
+   - Data : [data](https://github.com/Harsh26K/Data_Analytics/tree/Main/Product_recommendation/data)
    - data contains information about customers of a bank, their expense and payment methods used to clear them.
    - Data Cleaning | Analytics | Visualization | Presentation
    - Python | PowerQuery | PowerBI
